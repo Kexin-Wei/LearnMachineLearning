@@ -1,0 +1,10 @@
+Epoch 0 - rewards 0 and step 0
+Epoch 1 - rewards 1 and step 1
+Epoch 2 - rewards 2 and step 2
+Epoch 3 - rewards 3 and step 3
+Epoch 4 - rewards 4 and step 4
+Epoch 5 - rewards 5 and step 5
+Epoch 6 - rewards 6 and step 6
+Epoch 7 - rewards 7 and step 7
+Epoch 8 - rewards 8 and step 8
+Epoch 9 - rewards 9 and step 9

@@ -1,0 +1,143 @@
+FRAME_END:3000000.0
+EPSILON:1.0, EPSILON_END:0.1, EPSILON_DECAY:0.9999977
+GAMMA: 0.99,  LEARNING_RATE:0.0001 
+MEMORY_SIZE:1000000 ,MEMORY_SAMPLE_START:5000
+MODEL_UPDATE_STEP:10000, TRAIN_SKIP_STEP:4
+BATCH_SIZE:32
+
+Epoch: 1 	step: 999	frame_sum: 999	epsilon: 0.998	max_q: 0.090	sum_rewards: -21.000	mean_rewards: -21.000
+Epoch: 2 	step: 793	frame_sum: 1792	epsilon: 0.996	max_q: 0.090	sum_rewards: -21.000	mean_rewards: -21.000
+Epoch: 3 	step: 817	frame_sum: 2609	epsilon: 0.994	max_q: 0.089	sum_rewards: -21.000	mean_rewards: -21.000
+Epoch: 4 	step: 905	frame_sum: 3514	epsilon: 0.992	max_q: 0.089	sum_rewards: -20.000	mean_rewards: -20.750
+Epoch: 5 	step: 817	frame_sum: 4331	epsilon: 0.990	max_q: 0.090	sum_rewards: -21.000	mean_rewards: -20.800
+Epoch: 6 	step: 875	frame_sum: 5206	epsilon: 0.988	max_q: 0.607	sum_rewards: -21.000	mean_rewards: -20.833	sum_loss: 0.257689
+Epoch: 7 	step: 927	frame_sum: 6133	epsilon: 0.986	max_q: 0.215	sum_rewards: -21.000	mean_rewards: -20.857	sum_loss: 0.790833
+Epoch: 8 	step: 1009	frame_sum: 7142	epsilon: 0.984	max_q: 0.139	sum_rewards: -19.000	mean_rewards: -20.625	sum_loss: 0.856730
+Epoch: 9 	step: 762	frame_sum: 7904	epsilon: 0.982	max_q: 0.146	sum_rewards: -21.000	mean_rewards: -20.667	sum_loss: 0.641487
+Epoch: 10 	step: 877	frame_sum: 8781	epsilon: 0.980	max_q: 0.092	sum_rewards: -21.000	mean_rewards: -20.700	sum_loss: 0.645525
+Epoch: 11 	step: 760	frame_sum: 9541	epsilon: 0.978	max_q: 0.087	sum_rewards: -21.000	mean_rewards: -20.727	sum_loss: 0.628378
+Epoch: 12 	step: 1059	frame_sum: 10600	epsilon: 0.976	max_q: 0.074	sum_rewards: -20.000	mean_rewards: -20.667	sum_loss: 0.937479
+Epoch: 13 	step: 1273	frame_sum: 11873	epsilon: 0.973	max_q: 0.068	sum_rewards: -16.000	mean_rewards: -20.308	sum_loss: 1.085678
+Epoch: 14 	step: 948	frame_sum: 12821	epsilon: 0.971	max_q: 0.079	sum_rewards: -20.000	mean_rewards: -20.286	sum_loss: 0.724930
+Epoch: 15 	step: 964	frame_sum: 13785	epsilon: 0.969	max_q: 0.072	sum_rewards: -20.000	mean_rewards: -20.267	sum_loss: 0.746651
+Epoch: 16 	step: 760	frame_sum: 14545	epsilon: 0.967	max_q: 0.070	sum_rewards: -21.000	mean_rewards: -20.312	sum_loss: 0.643107
+Epoch: 17 	step: 823	frame_sum: 15368	epsilon: 0.965	max_q: 0.073	sum_rewards: -21.000	mean_rewards: -20.353	sum_loss: 0.651120
+Epoch: 18 	step: 881	frame_sum: 16249	epsilon: 0.963	max_q: 0.066	sum_rewards: -21.000	mean_rewards: -20.389	sum_loss: 0.647035
+Epoch: 19 	step: 759	frame_sum: 17008	epsilon: 0.962	max_q: 0.066	sum_rewards: -21.000	mean_rewards: -20.421	sum_loss: 0.586583
+Epoch: 20 	step: 814	frame_sum: 17822	epsilon: 0.960	max_q: 0.069	sum_rewards: -21.000	mean_rewards: -20.450	sum_loss: 0.633827
+Epoch: 21 	step: 925	frame_sum: 18747	epsilon: 0.958	max_q: 0.055	sum_rewards: -20.000	mean_rewards: -20.429	best_mean_rewards: -20.429	sum_loss: 0.752623
+Epoch: 22 	step: 907	frame_sum: 19654	epsilon: 0.956	max_q: 0.058	sum_rewards: -21.000	mean_rewards: -20.455	best_mean_rewards: -20.429	sum_loss: 0.708274
+Epoch: 23 	step: 846	frame_sum: 20500	epsilon: 0.954	max_q: 0.071	sum_rewards: -21.000	mean_rewards: -20.478	best_mean_rewards: -20.429	sum_loss: 0.709873
+Epoch: 24 	step: 861	frame_sum: 21361	epsilon: 0.952	max_q: 0.059	sum_rewards: -20.000	mean_rewards: -20.458	best_mean_rewards: -20.429	sum_loss: 0.642754
+Epoch: 25 	step: 947	frame_sum: 22308	epsilon: 0.950	max_q: 0.035	sum_rewards: -20.000	mean_rewards: -20.440	best_mean_rewards: -20.429	sum_loss: 0.679963
+Epoch: 26 	step: 775	frame_sum: 23083	epsilon: 0.948	max_q: 0.031	sum_rewards: -21.000	mean_rewards: -20.462	best_mean_rewards: -20.429	sum_loss: 0.652730
+Epoch: 27 	step: 896	frame_sum: 23979	epsilon: 0.946	max_q: 0.032	sum_rewards: -21.000	mean_rewards: -20.481	best_mean_rewards: -20.429	sum_loss: 0.832825
+Epoch: 28 	step: 821	frame_sum: 24800	epsilon: 0.945	max_q: 0.037	sum_rewards: -21.000	mean_rewards: -20.500	best_mean_rewards: -20.429	sum_loss: 0.684580
+Epoch: 29 	step: 996	frame_sum: 25796	epsilon: 0.942	max_q: 0.039	sum_rewards: -19.000	mean_rewards: -20.448	best_mean_rewards: -20.429	sum_loss: 0.719450
+Epoch: 30 	step: 928	frame_sum: 26724	epsilon: 0.940	max_q: 0.036	sum_rewards: -20.000	mean_rewards: -20.433	best_mean_rewards: -20.429	sum_loss: 0.638808
+Epoch: 31 	step: 969	frame_sum: 27693	epsilon: 0.938	max_q: 0.035	sum_rewards: -20.000	mean_rewards: -20.419	best_mean_rewards: -20.419	sum_loss: 0.603217
+Epoch: 32 	step: 761	frame_sum: 28454	epsilon: 0.937	max_q: 0.036	sum_rewards: -21.000	mean_rewards: -20.438	best_mean_rewards: -20.419	sum_loss: 0.613595
+Epoch: 33 	step: 821	frame_sum: 29275	epsilon: 0.935	max_q: 0.035	sum_rewards: -21.000	mean_rewards: -20.455	best_mean_rewards: -20.419	sum_loss: 0.683376
+Epoch: 34 	step: 762	frame_sum: 30037	epsilon: 0.933	max_q: 0.032	sum_rewards: -21.000	mean_rewards: -20.471	best_mean_rewards: -20.419	sum_loss: 0.598687
+Epoch: 35 	step: 953	frame_sum: 30990	epsilon: 0.931	max_q: 0.028	sum_rewards: -21.000	mean_rewards: -20.486	best_mean_rewards: -20.419	sum_loss: 0.821611
+Epoch: 36 	step: 965	frame_sum: 31955	epsilon: 0.929	max_q: 0.021	sum_rewards: -20.000	mean_rewards: -20.472	best_mean_rewards: -20.419	sum_loss: 0.831674
+Epoch: 37 	step: 762	frame_sum: 32717	epsilon: 0.928	max_q: 0.013	sum_rewards: -21.000	mean_rewards: -20.486	best_mean_rewards: -20.419	sum_loss: 0.639293
+Epoch: 38 	step: 762	frame_sum: 33479	epsilon: 0.926	max_q: 0.013	sum_rewards: -21.000	mean_rewards: -20.500	best_mean_rewards: -20.419	sum_loss: 0.652512
+Epoch: 39 	step: 1017	frame_sum: 34496	epsilon: 0.924	max_q: 0.010	sum_rewards: -20.000	mean_rewards: -20.487	best_mean_rewards: -20.419	sum_loss: 0.829223
+Epoch: 40 	step: 950	frame_sum: 35446	epsilon: 0.922	max_q: 0.013	sum_rewards: -20.000	mean_rewards: -20.475	best_mean_rewards: -20.419	sum_loss: 0.784307
+Epoch: 41 	step: 1139	frame_sum: 36585	epsilon: 0.919	max_q: 0.014	sum_rewards: -19.000	mean_rewards: -20.439	best_mean_rewards: -20.419	sum_loss: 0.906469
+Epoch: 42 	step: 1036	frame_sum: 37621	epsilon: 0.917	max_q: 0.022	sum_rewards: -20.000	mean_rewards: -20.429	best_mean_rewards: -20.419	sum_loss: 0.817223
+Epoch: 43 	step: 958	frame_sum: 38579	epsilon: 0.915	max_q: 0.020	sum_rewards: -19.000	mean_rewards: -20.395	best_mean_rewards: -20.395	sum_loss: 0.792544
+Epoch: 44 	step: 821	frame_sum: 39400	epsilon: 0.913	max_q: 0.013	sum_rewards: -21.000	mean_rewards: -20.409	best_mean_rewards: -20.395	sum_loss: 0.653227
+Epoch: 45 	step: 900	frame_sum: 40300	epsilon: 0.911	max_q: 0.013	sum_rewards: -20.000	mean_rewards: -20.400	best_mean_rewards: -20.395	sum_loss: 0.780289
+Epoch: 46 	step: 1097	frame_sum: 41397	epsilon: 0.909	max_q: 0.001	sum_rewards: -18.000	mean_rewards: -20.348	best_mean_rewards: -20.348	sum_loss: 0.889930
+Epoch: 47 	step: 821	frame_sum: 42218	epsilon: 0.907	max_q: -0.002	sum_rewards: -21.000	mean_rewards: -20.362	best_mean_rewards: -20.348	sum_loss: 0.527766
+Epoch: 48 	step: 762	frame_sum: 42980	epsilon: 0.906	max_q: -0.002	sum_rewards: -21.000	mean_rewards: -20.375	best_mean_rewards: -20.348	sum_loss: 0.670486
+Epoch: 49 	step: 908	frame_sum: 43888	epsilon: 0.904	max_q: -0.006	sum_rewards: -21.000	mean_rewards: -20.388	best_mean_rewards: -20.348	sum_loss: 0.734429
+Epoch: 50 	step: 818	frame_sum: 44706	epsilon: 0.902	max_q: -0.001	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.348	sum_loss: 0.762816
+Epoch: 51 	step: 983	frame_sum: 45689	epsilon: 0.900	max_q: 0.001	sum_rewards: -20.000	mean_rewards: -20.392	best_mean_rewards: -20.348	sum_loss: 0.700664
+Epoch: 52 	step: 838	frame_sum: 46527	epsilon: 0.899	max_q: 0.003	sum_rewards: -20.000	mean_rewards: -20.385	best_mean_rewards: -20.348	sum_loss: 0.774850
+Epoch: 53 	step: 850	frame_sum: 47377	epsilon: 0.897	max_q: -0.005	sum_rewards: -21.000	mean_rewards: -20.396	best_mean_rewards: -20.348	sum_loss: 0.725280
+Epoch: 54 	step: 883	frame_sum: 48260	epsilon: 0.895	max_q: -0.003	sum_rewards: -21.000	mean_rewards: -20.407	best_mean_rewards: -20.348	sum_loss: 0.644717
+Epoch: 55 	step: 838	frame_sum: 49098	epsilon: 0.893	max_q: -0.001	sum_rewards: -21.000	mean_rewards: -20.418	best_mean_rewards: -20.348	sum_loss: 0.683376
+Epoch: 56 	step: 785	frame_sum: 49883	epsilon: 0.892	max_q: -0.005	sum_rewards: -21.000	mean_rewards: -20.429	best_mean_rewards: -20.348	sum_loss: 0.691425
+Epoch: 57 	step: 1158	frame_sum: 51041	epsilon: 0.889	max_q: -0.006	sum_rewards: -18.000	mean_rewards: -20.386	best_mean_rewards: -20.348	sum_loss: 0.830622
+Epoch: 58 	step: 783	frame_sum: 51824	epsilon: 0.888	max_q: -0.015	sum_rewards: -21.000	mean_rewards: -20.397	best_mean_rewards: -20.348	sum_loss: 0.646426
+Epoch: 59 	step: 755	frame_sum: 52579	epsilon: 0.886	max_q: -0.019	sum_rewards: -21.000	mean_rewards: -20.407	best_mean_rewards: -20.348	sum_loss: 0.535824
+Epoch: 60 	step: 1041	frame_sum: 53620	epsilon: 0.884	max_q: -0.012	sum_rewards: -19.000	mean_rewards: -20.383	best_mean_rewards: -20.348	sum_loss: 0.856983
+Epoch: 61 	step: 789	frame_sum: 54409	epsilon: 0.882	max_q: -0.019	sum_rewards: -21.000	mean_rewards: -20.393	best_mean_rewards: -20.348	sum_loss: 0.665716
+Epoch: 62 	step: 816	frame_sum: 55225	epsilon: 0.881	max_q: -0.021	sum_rewards: -21.000	mean_rewards: -20.403	best_mean_rewards: -20.348	sum_loss: 0.532072
+Epoch: 63 	step: 760	frame_sum: 55985	epsilon: 0.879	max_q: -0.020	sum_rewards: -21.000	mean_rewards: -20.413	best_mean_rewards: -20.348	sum_loss: 0.635518
+Epoch: 64 	step: 817	frame_sum: 56802	epsilon: 0.878	max_q: -0.022	sum_rewards: -21.000	mean_rewards: -20.422	best_mean_rewards: -20.348	sum_loss: 0.581590
+Epoch: 65 	step: 927	frame_sum: 57729	epsilon: 0.876	max_q: -0.021	sum_rewards: -20.000	mean_rewards: -20.415	best_mean_rewards: -20.348	sum_loss: 0.839416
+Epoch: 66 	step: 912	frame_sum: 58641	epsilon: 0.874	max_q: -0.021	sum_rewards: -21.000	mean_rewards: -20.424	best_mean_rewards: -20.348	sum_loss: 0.738688
+Epoch: 67 	step: 979	frame_sum: 59620	epsilon: 0.872	max_q: -0.019	sum_rewards: -19.000	mean_rewards: -20.403	best_mean_rewards: -20.348	sum_loss: 0.829827
+Epoch: 68 	step: 911	frame_sum: 60531	epsilon: 0.870	max_q: -0.019	sum_rewards: -21.000	mean_rewards: -20.412	best_mean_rewards: -20.348	sum_loss: 0.638482
+Epoch: 69 	step: 994	frame_sum: 61525	epsilon: 0.868	max_q: -0.028	sum_rewards: -20.000	mean_rewards: -20.406	best_mean_rewards: -20.348	sum_loss: 0.807852
+Epoch: 70 	step: 1225	frame_sum: 62750	epsilon: 0.866	max_q: -0.034	sum_rewards: -16.000	mean_rewards: -20.343	best_mean_rewards: -20.343	sum_loss: 1.058465
+Epoch: 71 	step: 761	frame_sum: 63511	epsilon: 0.864	max_q: -0.008	sum_rewards: -21.000	mean_rewards: -20.352	best_mean_rewards: -20.343	sum_loss: 0.572712
+Epoch: 72 	step: 757	frame_sum: 64268	epsilon: 0.863	max_q: -0.032	sum_rewards: -21.000	mean_rewards: -20.361	best_mean_rewards: -20.343	sum_loss: 0.626185
+Epoch: 73 	step: 762	frame_sum: 65030	epsilon: 0.861	max_q: -0.034	sum_rewards: -21.000	mean_rewards: -20.370	best_mean_rewards: -20.343	sum_loss: 0.642029
+Epoch: 74 	step: 1022	frame_sum: 66052	epsilon: 0.859	max_q: -0.029	sum_rewards: -19.000	mean_rewards: -20.351	best_mean_rewards: -20.343	sum_loss: 0.719669
+Epoch: 75 	step: 823	frame_sum: 66875	epsilon: 0.857	max_q: -0.031	sum_rewards: -21.000	mean_rewards: -20.360	best_mean_rewards: -20.343	sum_loss: 0.702772
+Epoch: 76 	step: 759	frame_sum: 67634	epsilon: 0.856	max_q: -0.031	sum_rewards: -21.000	mean_rewards: -20.368	best_mean_rewards: -20.343	sum_loss: 0.555708
+Epoch: 77 	step: 759	frame_sum: 68393	epsilon: 0.854	max_q: -0.030	sum_rewards: -21.000	mean_rewards: -20.377	best_mean_rewards: -20.343	sum_loss: 0.615262
+Epoch: 78 	step: 756	frame_sum: 69149	epsilon: 0.853	max_q: -0.029	sum_rewards: -21.000	mean_rewards: -20.385	best_mean_rewards: -20.343	sum_loss: 0.505383
+Epoch: 79 	step: 995	frame_sum: 70144	epsilon: 0.851	max_q: -0.030	sum_rewards: -20.000	mean_rewards: -20.380	best_mean_rewards: -20.343	sum_loss: 0.835637
+Epoch: 80 	step: 843	frame_sum: 70987	epsilon: 0.849	max_q: -0.036	sum_rewards: -21.000	mean_rewards: -20.387	best_mean_rewards: -20.343	sum_loss: 0.711386
+Epoch: 81 	step: 833	frame_sum: 71820	epsilon: 0.848	max_q: -0.045	sum_rewards: -20.000	mean_rewards: -20.383	best_mean_rewards: -20.343	sum_loss: 0.643738
+Epoch: 82 	step: 762	frame_sum: 72582	epsilon: 0.846	max_q: -0.043	sum_rewards: -21.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.564640
+Epoch: 83 	step: 1002	frame_sum: 73584	epsilon: 0.844	max_q: -0.039	sum_rewards: -20.000	mean_rewards: -20.386	best_mean_rewards: -20.343	sum_loss: 0.779248
+Epoch: 84 	step: 761	frame_sum: 74345	epsilon: 0.843	max_q: -0.049	sum_rewards: -21.000	mean_rewards: -20.393	best_mean_rewards: -20.343	sum_loss: 0.661323
+Epoch: 85 	step: 816	frame_sum: 75161	epsilon: 0.841	max_q: -0.048	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.694087
+Epoch: 86 	step: 976	frame_sum: 76137	epsilon: 0.839	max_q: -0.047	sum_rewards: -20.000	mean_rewards: -20.395	best_mean_rewards: -20.343	sum_loss: 0.807503
+Epoch: 87 	step: 755	frame_sum: 76892	epsilon: 0.838	max_q: -0.050	sum_rewards: -21.000	mean_rewards: -20.402	best_mean_rewards: -20.343	sum_loss: 0.630182
+Epoch: 88 	step: 865	frame_sum: 77757	epsilon: 0.836	max_q: -0.049	sum_rewards: -20.000	mean_rewards: -20.398	best_mean_rewards: -20.343	sum_loss: 0.692115
+Epoch: 89 	step: 860	frame_sum: 78617	epsilon: 0.835	max_q: -0.045	sum_rewards: -21.000	mean_rewards: -20.404	best_mean_rewards: -20.343	sum_loss: 0.691804
+Epoch: 90 	step: 846	frame_sum: 79463	epsilon: 0.833	max_q: -0.051	sum_rewards: -21.000	mean_rewards: -20.411	best_mean_rewards: -20.343	sum_loss: 0.688067
+Epoch: 91 	step: 956	frame_sum: 80419	epsilon: 0.831	max_q: -0.050	sum_rewards: -20.000	mean_rewards: -20.407	best_mean_rewards: -20.343	sum_loss: 0.798031
+Epoch: 92 	step: 913	frame_sum: 81332	epsilon: 0.829	max_q: -0.061	sum_rewards: -20.000	mean_rewards: -20.402	best_mean_rewards: -20.343	sum_loss: 0.788540
+Epoch: 93 	step: 819	frame_sum: 82151	epsilon: 0.828	max_q: -0.066	sum_rewards: -21.000	mean_rewards: -20.409	best_mean_rewards: -20.343	sum_loss: 0.580213
+Epoch: 94 	step: 816	frame_sum: 82967	epsilon: 0.826	max_q: -0.065	sum_rewards: -21.000	mean_rewards: -20.415	best_mean_rewards: -20.343	sum_loss: 0.689388
+Epoch: 95 	step: 920	frame_sum: 83887	epsilon: 0.825	max_q: -0.063	sum_rewards: -21.000	mean_rewards: -20.421	best_mean_rewards: -20.343	sum_loss: 0.640312
+Epoch: 96 	step: 822	frame_sum: 84709	epsilon: 0.823	max_q: -0.065	sum_rewards: -21.000	mean_rewards: -20.427	best_mean_rewards: -20.343	sum_loss: 0.629417
+Epoch: 97 	step: 1006	frame_sum: 85715	epsilon: 0.821	max_q: -0.068	sum_rewards: -19.000	mean_rewards: -20.412	best_mean_rewards: -20.343	sum_loss: 0.793021
+Epoch: 98 	step: 952	frame_sum: 86667	epsilon: 0.819	max_q: -0.065	sum_rewards: -20.000	mean_rewards: -20.408	best_mean_rewards: -20.343	sum_loss: 0.756281
+Epoch: 99 	step: 784	frame_sum: 87451	epsilon: 0.818	max_q: -0.067	sum_rewards: -21.000	mean_rewards: -20.414	best_mean_rewards: -20.343	sum_loss: 0.693728
+Epoch: 100 	step: 892	frame_sum: 88343	epsilon: 0.816	max_q: -0.065	sum_rewards: -20.000	mean_rewards: -20.410	best_mean_rewards: -20.343	sum_loss: 0.711535
+Epoch: 101 	step: 756	frame_sum: 89099	epsilon: 0.815	max_q: -0.060	sum_rewards: -21.000	mean_rewards: -20.410	best_mean_rewards: -20.343	sum_loss: 0.561770
+Epoch: 102 	step: 1157	frame_sum: 90256	epsilon: 0.813	max_q: -0.066	sum_rewards: -19.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.886748
+Epoch: 103 	step: 965	frame_sum: 91221	epsilon: 0.811	max_q: -0.072	sum_rewards: -21.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.797163
+Epoch: 104 	step: 798	frame_sum: 92019	epsilon: 0.809	max_q: -0.083	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.643668
+Epoch: 105 	step: 757	frame_sum: 92776	epsilon: 0.808	max_q: -0.082	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.610806
+Epoch: 106 	step: 834	frame_sum: 93610	epsilon: 0.806	max_q: -0.085	sum_rewards: -20.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.700168
+Epoch: 107 	step: 894	frame_sum: 94504	epsilon: 0.805	max_q: -0.084	sum_rewards: -20.000	mean_rewards: -20.380	best_mean_rewards: -20.343	sum_loss: 0.700569
+Epoch: 108 	step: 924	frame_sum: 95428	epsilon: 0.803	max_q: -0.079	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.644192
+Epoch: 109 	step: 755	frame_sum: 96183	epsilon: 0.802	max_q: -0.083	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.604449
+Epoch: 110 	step: 979	frame_sum: 97162	epsilon: 0.800	max_q: -0.083	sum_rewards: -20.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.745793
+Epoch: 111 	step: 757	frame_sum: 97919	epsilon: 0.798	max_q: -0.081	sum_rewards: -21.000	mean_rewards: -20.390	best_mean_rewards: -20.343	sum_loss: 0.619383
+Epoch: 112 	step: 755	frame_sum: 98674	epsilon: 0.797	max_q: -0.076	sum_rewards: -21.000	mean_rewards: -20.400	best_mean_rewards: -20.343	sum_loss: 0.593551
+Epoch: 113 	step: 845	frame_sum: 99519	epsilon: 0.795	max_q: -0.083	sum_rewards: -21.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.600015
+Epoch: 114 	step: 757	frame_sum: 100276	epsilon: 0.794	max_q: -0.079	sum_rewards: -21.000	mean_rewards: -20.460	best_mean_rewards: -20.343	sum_loss: 0.614350
+Epoch: 115 	step: 762	frame_sum: 101038	epsilon: 0.793	max_q: -0.093	sum_rewards: -21.000	mean_rewards: -20.470	best_mean_rewards: -20.343	sum_loss: 0.652355
+Epoch: 116 	step: 757	frame_sum: 101795	epsilon: 0.791	max_q: -0.097	sum_rewards: -21.000	mean_rewards: -20.470	best_mean_rewards: -20.343	sum_loss: 0.603076
+Epoch: 117 	step: 1036	frame_sum: 102831	epsilon: 0.789	max_q: -0.095	sum_rewards: -20.000	mean_rewards: -20.460	best_mean_rewards: -20.343	sum_loss: 0.879330
+Epoch: 118 	step: 897	frame_sum: 103728	epsilon: 0.788	max_q: -0.098	sum_rewards: -20.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.636327
+Epoch: 119 	step: 915	frame_sum: 104643	epsilon: 0.786	max_q: -0.096	sum_rewards: -19.000	mean_rewards: -20.430	best_mean_rewards: -20.343	sum_loss: 0.752318
+Epoch: 120 	step: 759	frame_sum: 105402	epsilon: 0.785	max_q: -0.090	sum_rewards: -21.000	mean_rewards: -20.430	best_mean_rewards: -20.343	sum_loss: 0.575516
+Epoch: 121 	step: 757	frame_sum: 106159	epsilon: 0.783	max_q: -0.093	sum_rewards: -21.000	mean_rewards: -20.440	best_mean_rewards: -20.343	sum_loss: 0.586594
+Epoch: 122 	step: 817	frame_sum: 106976	epsilon: 0.782	max_q: -0.100	sum_rewards: -21.000	mean_rewards: -20.440	best_mean_rewards: -20.343	sum_loss: 0.779305
+Epoch: 123 	step: 775	frame_sum: 107751	epsilon: 0.780	max_q: -0.099	sum_rewards: -21.000	mean_rewards: -20.440	best_mean_rewards: -20.343	sum_loss: 0.542409
+Epoch: 124 	step: 834	frame_sum: 108585	epsilon: 0.779	max_q: -0.097	sum_rewards: -20.000	mean_rewards: -20.440	best_mean_rewards: -20.343	sum_loss: 0.672822
+Epoch: 125 	step: 759	frame_sum: 109344	epsilon: 0.778	max_q: -0.098	sum_rewards: -21.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.670330
+Epoch: 126 	step: 757	frame_sum: 110101	epsilon: 0.776	max_q: -0.094	sum_rewards: -21.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.579149
+Epoch: 127 	step: 761	frame_sum: 110862	epsilon: 0.775	max_q: -0.104	sum_rewards: -21.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.536878
+Epoch: 128 	step: 836	frame_sum: 111698	epsilon: 0.773	max_q: -0.108	sum_rewards: -20.000	mean_rewards: -20.440	best_mean_rewards: -20.343	sum_loss: 0.613901
+Epoch: 129 	step: 816	frame_sum: 112514	epsilon: 0.772	max_q: -0.112	sum_rewards: -21.000	mean_rewards: -20.460	best_mean_rewards: -20.343	sum_loss: 0.633373
+Epoch: 130 	step: 759	frame_sum: 113273	epsilon: 0.771	max_q: -0.117	sum_rewards: -21.000	mean_rewards: -20.470	best_mean_rewards: -20.343	sum_loss: 0.641510
+Epoch: 131 	step: 756	frame_sum: 114029	epsilon: 0.769	max_q: -0.117	sum_rewards: -21.000	mean_rewards: -20.480	best_mean_rewards: -20.343	sum_loss: 0.533565
+Epoch: 132 	step: 757	frame_sum: 114786	epsilon: 0.768	max_q: -0.112	sum_rewards: -21.000	mean_rewards: -20.480	best_mean_rewards: -20.343	sum_loss: 0.513523
+Epoch: 133 	step: 835	frame_sum: 115621	epsilon: 0.766	max_q: -0.110	sum_rewards: -21.000	mean_rewards: -20.480	best_mean_rewards: -20.343	sum_loss: 0.684022
+Epoch: 134 	step: 1055	frame_sum: 116676	epsilon: 0.765	max_q: -0.112	sum_rewards: -18.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.833124
+Epoch: 135 	step: 761	frame_sum: 117437	epsilon: 0.763	max_q: -0.114	sum_rewards: -21.000	mean_rewards: -20.450	best_mean_rewards: -20.343	sum_loss: 0.693196
+Epoch: 136 	step: 760	frame_sum: 118197	epsilon: 0.762	max_q: -0.109	sum_rewards: -21.000	mean_rewards: -20.460	best_mean_rewards: -20.343	sum_loss: 0.490464

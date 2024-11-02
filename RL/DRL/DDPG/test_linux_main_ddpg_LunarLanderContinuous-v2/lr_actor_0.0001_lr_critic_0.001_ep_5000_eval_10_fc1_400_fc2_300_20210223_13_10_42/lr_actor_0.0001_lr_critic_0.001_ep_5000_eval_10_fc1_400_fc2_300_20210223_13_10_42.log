@@ -1,0 +1,680 @@
+INFO:root:Epoch: 0 	 reward:-181.80	loss actor:-3.20299	loss critic:3.28978
+INFO:root:Epoch: 1 	 reward:-88.86	loss actor:4.32786	loss critic:19.60989
+INFO:root:Epoch: 2 	 reward:-127.78	loss actor:-0.03737	loss critic:2.51959
+INFO:root:Epoch: 3 	 reward:-106.06	loss actor:-3.31363	loss critic:229.39624
+INFO:root:Epoch: 4 	 reward:-270.92	loss actor:-2.23114	loss critic:16.49489
+INFO:root:Epoch: 5 	 reward:-77.67	loss actor:-0.51529	loss critic:3.96165
+INFO:root:Epoch: 6 	 reward:-110.69	loss actor:0.77972	loss critic:7.44102
+INFO:root:Epoch: 7 	 reward:-452.80	loss actor:1.27798	loss critic:331.99448
+INFO:root:Epoch: 8 	 reward:-141.52	loss actor:3.52210	loss critic:187.79961
+INFO:root:Epoch: 9 	 reward:-181.59	loss actor:4.20671	loss critic:149.75243
+INFO:root:Epoch: 10 	 reward:-423.75	loss actor:4.09994	loss critic:140.98444	eval reward: -250.65	mean reward: -250.65	best reward: -250.65
+INFO:root:Epoch: 11 	 reward:-123.65	loss actor:2.61471	loss critic:153.26556
+INFO:root:Epoch: 12 	 reward:-280.78	loss actor:1.30488	loss critic:114.89488
+INFO:root:Epoch: 13 	 reward:-60.34	loss actor:-1.01374	loss critic:10.28640
+INFO:root:Epoch: 14 	 reward:-271.38	loss actor:-1.79703	loss critic:9.08715
+INFO:root:Epoch: 15 	 reward:-110.33	loss actor:-1.71990	loss critic:350.92612
+INFO:root:Epoch: 16 	 reward:-157.10	loss actor:-0.37396	loss critic:148.12520
+INFO:root:Epoch: 17 	 reward:-158.94	loss actor:1.04788	loss critic:180.17520
+INFO:root:Epoch: 18 	 reward:-157.26	loss actor:2.99053	loss critic:161.58334
+INFO:root:Epoch: 19 	 reward:-168.35	loss actor:3.05411	loss critic:20.43280
+INFO:root:Epoch: 20 	 reward:-360.83	loss actor:2.63084	loss critic:7.18346	eval reward: -346.78	mean reward: -298.71	best reward: -250.65
+INFO:root:Epoch: 21 	 reward:-133.06	loss actor:1.39758	loss critic:6.73247
+INFO:root:Epoch: 22 	 reward:-306.81	loss actor:0.53444	loss critic:231.74603
+INFO:root:Epoch: 23 	 reward:-355.17	loss actor:0.44491	loss critic:172.13776
+INFO:root:Epoch: 24 	 reward:-290.37	loss actor:1.13915	loss critic:180.20305
+INFO:root:Epoch: 25 	 reward:-133.08	loss actor:2.22169	loss critic:96.58275
+INFO:root:Epoch: 26 	 reward:-293.42	loss actor:2.11744	loss critic:261.63379
+INFO:root:Epoch: 27 	 reward:-71.16	loss actor:2.05600	loss critic:263.71552
+INFO:root:Epoch: 28 	 reward:-293.21	loss actor:5.31177	loss critic:19.66005
+INFO:root:Epoch: 29 	 reward:-300.30	loss actor:4.17093	loss critic:21.85443
+INFO:root:Epoch: 30 	 reward:-311.49	loss actor:4.45649	loss critic:275.85443	eval reward: -306.22	mean reward: -301.22	best reward: -250.65
+INFO:root:Epoch: 31 	 reward:-273.48	loss actor:4.51268	loss critic:245.81160
+INFO:root:Epoch: 32 	 reward:-263.59	loss actor:3.06260	loss critic:108.95734
+INFO:root:Epoch: 33 	 reward:-269.92	loss actor:2.07221	loss critic:69.43570
+INFO:root:Epoch: 34 	 reward:-213.27	loss actor:0.65347	loss critic:182.06310
+INFO:root:Epoch: 35 	 reward:-65.66	loss actor:-1.12434	loss critic:8.75605
+INFO:root:Epoch: 36 	 reward:-244.61	loss actor:-2.29836	loss critic:14.87550
+INFO:root:Epoch: 37 	 reward:-348.24	loss actor:-0.87934	loss critic:170.41832
+INFO:root:Epoch: 38 	 reward:-415.07	loss actor:-0.30319	loss critic:56.16315
+INFO:root:Epoch: 39 	 reward:-244.39	loss actor:1.30262	loss critic:134.36450
+INFO:root:Epoch: 40 	 reward:-380.84	loss actor:1.29666	loss critic:27.39227	eval reward: -428.85	mean reward: -333.12	best reward: -250.65
+INFO:root:Epoch: 41 	 reward:-299.55	loss actor:2.73440	loss critic:35.32358
+INFO:root:Epoch: 42 	 reward:-290.70	loss actor:2.64408	loss critic:45.94007
+INFO:root:Epoch: 43 	 reward:-268.65	loss actor:1.56669	loss critic:8.58856
+INFO:root:Epoch: 44 	 reward:-1100.68	loss actor:0.80806	loss critic:103.12561
+INFO:root:Epoch: 45 	 reward:-395.79	loss actor:0.83131	loss critic:33.00943
+INFO:root:Epoch: 46 	 reward:-332.52	loss actor:0.00239	loss critic:10.04911
+INFO:root:Epoch: 47 	 reward:-276.17	loss actor:-1.49807	loss critic:154.58650
+INFO:root:Epoch: 48 	 reward:-469.01	loss actor:-1.76891	loss critic:161.51187
+INFO:root:Epoch: 49 	 reward:-302.19	loss actor:1.35722	loss critic:85.01754
+INFO:root:Epoch: 50 	 reward:-448.24	loss actor:1.33118	loss critic:140.22165	eval reward: -273.50	mean reward: -321.20	best reward: -250.65
+INFO:root:Epoch: 51 	 reward:-119.65	loss actor:0.66766	loss critic:10.26266
+INFO:root:Epoch: 52 	 reward:-593.74	loss actor:1.67661	loss critic:35.60543
+INFO:root:Epoch: 53 	 reward:-347.19	loss actor:1.63763	loss critic:113.14571
+INFO:root:Epoch: 54 	 reward:-353.07	loss actor:0.30922	loss critic:136.31261
+INFO:root:Epoch: 55 	 reward:-491.35	loss actor:-0.00252	loss critic:7.10606
+INFO:root:Epoch: 56 	 reward:-488.24	loss actor:-1.07583	loss critic:5.56946
+INFO:root:Epoch: 57 	 reward:-280.97	loss actor:-1.37576	loss critic:148.21312
+INFO:root:Epoch: 58 	 reward:-334.46	loss actor:-1.19777	loss critic:4.75380
+INFO:root:Epoch: 59 	 reward:-354.64	loss actor:0.74422	loss critic:34.37909
+INFO:root:Epoch: 60 	 reward:-464.88	loss actor:0.33909	loss critic:4.02955	eval reward: -418.56	mean reward: -337.43	best reward: -250.65
+INFO:root:Epoch: 61 	 reward:-572.04	loss actor:-0.91893	loss critic:11.10208
+INFO:root:Epoch: 62 	 reward:-360.78	loss actor:0.83264	loss critic:3.60991
+INFO:root:Epoch: 63 	 reward:-204.57	loss actor:0.51795	loss critic:4.23935
+INFO:root:Epoch: 64 	 reward:-598.87	loss actor:0.31512	loss critic:143.77917
+INFO:root:Epoch: 65 	 reward:-639.95	loss actor:0.65557	loss critic:5.11702
+INFO:root:Epoch: 66 	 reward:-536.59	loss actor:0.32593	loss critic:23.02783
+INFO:root:Epoch: 67 	 reward:-467.86	loss actor:-0.09056	loss critic:4.29101
+INFO:root:Epoch: 68 	 reward:-560.43	loss actor:-0.04264	loss critic:252.82755
+INFO:root:Epoch: 69 	 reward:-278.88	loss actor:1.07910	loss critic:7.15374
+INFO:root:Epoch: 70 	 reward:-42.43	loss actor:3.32568	loss critic:57.55329	eval reward: -506.84	mean reward: -361.63	best reward: -250.65
+INFO:root:Epoch: 71 	 reward:-327.44	loss actor:0.92166	loss critic:365.78091
+INFO:root:Epoch: 72 	 reward:-720.95	loss actor:2.32597	loss critic:32.43647
+INFO:root:Epoch: 73 	 reward:-1034.83	loss actor:2.27838	loss critic:6.95448
+INFO:root:Epoch: 74 	 reward:-355.43	loss actor:0.68868	loss critic:6.92891
+INFO:root:Epoch: 75 	 reward:-473.46	loss actor:0.20712	loss critic:17.74095
+INFO:root:Epoch: 76 	 reward:-638.11	loss actor:-0.20518	loss critic:14.23351
+INFO:root:Epoch: 77 	 reward:-241.19	loss actor:-0.46960	loss critic:20.79667
+INFO:root:Epoch: 78 	 reward:-18.63	loss actor:-2.06249	loss critic:60.03659
+INFO:root:Epoch: 79 	 reward:-456.02	loss actor:-1.42805	loss critic:7.32767
+INFO:root:Epoch: 80 	 reward:-669.06	loss actor:-1.06667	loss critic:5.37830	eval reward: -740.66	mean reward: -409.01	best reward: -250.65
+INFO:root:Epoch: 81 	 reward:-844.27	loss actor:-1.62453	loss critic:130.66896
+INFO:root:Epoch: 82 	 reward:-260.92	loss actor:1.23705	loss critic:117.15420
+INFO:root:Epoch: 83 	 reward:-730.58	loss actor:3.54698	loss critic:39.28389
+INFO:root:Epoch: 84 	 reward:-731.64	loss actor:2.57139	loss critic:27.97388
+INFO:root:Epoch: 85 	 reward:-146.16	loss actor:0.73844	loss critic:14.94266
+INFO:root:Epoch: 86 	 reward:-783.54	loss actor:1.25202	loss critic:15.08687
+INFO:root:Epoch: 87 	 reward:-253.16	loss actor:-1.54941	loss critic:136.74316
+INFO:root:Epoch: 88 	 reward:-445.29	loss actor:-2.50800	loss critic:143.56151
+INFO:root:Epoch: 89 	 reward:-748.94	loss actor:-0.22824	loss critic:31.65054
+INFO:root:Epoch: 90 	 reward:-203.22	loss actor:-0.79232	loss critic:8.63022	eval reward: -93.07	mean reward: -373.90	best reward: -93.07
+INFO:root:Epoch: 91 	 reward:-249.69	loss actor:1.18938	loss critic:26.25780
+INFO:root:Epoch: 92 	 reward:-687.45	loss actor:0.49303	loss critic:137.97058
+INFO:root:Epoch: 93 	 reward:-175.69	loss actor:0.23303	loss critic:10.95222
+INFO:root:Epoch: 94 	 reward:-51.32	loss actor:1.48210	loss critic:126.08601
+INFO:root:Epoch: 95 	 reward:-177.95	loss actor:-0.44930	loss critic:12.86995
+INFO:root:Epoch: 96 	 reward:-186.49	loss actor:-0.64276	loss critic:127.39411
+INFO:root:Epoch: 97 	 reward:-694.70	loss actor:1.22292	loss critic:264.25955
+INFO:root:Epoch: 98 	 reward:-722.04	loss actor:2.14368	loss critic:72.49830
+INFO:root:Epoch: 99 	 reward:-102.72	loss actor:1.48450	loss critic:12.73433
+INFO:root:Epoch: 100 	 reward:-730.17	loss actor:1.88823	loss critic:406.66687	eval reward: -836.75	mean reward: -420.19	best reward: -93.07
+INFO:root:Epoch: 101 	 reward:-901.64	loss actor:1.73305	loss critic:16.68729
+INFO:root:Epoch: 102 	 reward:-685.45	loss actor:2.53530	loss critic:23.30888
+INFO:root:Epoch: 103 	 reward:-760.67	loss actor:2.42718	loss critic:148.20532
+INFO:root:Epoch: 104 	 reward:-199.81	loss actor:0.66746	loss critic:10.64129
+INFO:root:Epoch: 105 	 reward:-810.11	loss actor:1.01375	loss critic:22.92063
+INFO:root:Epoch: 106 	 reward:-751.05	loss actor:-0.00290	loss critic:14.64088
+INFO:root:Epoch: 107 	 reward:-320.03	loss actor:-2.19092	loss critic:13.82922
+INFO:root:Epoch: 108 	 reward:-825.60	loss actor:0.25890	loss critic:328.46417
+INFO:root:Epoch: 109 	 reward:-770.32	loss actor:-1.47026	loss critic:284.92896
+INFO:root:Epoch: 110 	 reward:-737.44	loss actor:1.02515	loss critic:237.39255	eval reward: -144.68	mean reward: -395.14	best reward: -93.07
+INFO:root:Epoch: 111 	 reward:-766.18	loss actor:0.97599	loss critic:14.11775
+INFO:root:Epoch: 112 	 reward:-953.51	loss actor:4.08268	loss critic:161.70293
+INFO:root:Epoch: 113 	 reward:-506.22	loss actor:3.10740	loss critic:104.51387
+INFO:root:Epoch: 114 	 reward:-788.64	loss actor:2.07882	loss critic:23.04922
+INFO:root:Epoch: 115 	 reward:-198.36	loss actor:2.17844	loss critic:11.71618
+INFO:root:Epoch: 116 	 reward:-168.45	loss actor:-0.96763	loss critic:120.02902
+INFO:root:Epoch: 117 	 reward:-791.51	loss actor:-2.28309	loss critic:172.73386
+INFO:root:Epoch: 118 	 reward:-80.79	loss actor:-2.68216	loss critic:19.28380
+INFO:root:Epoch: 119 	 reward:-164.13	loss actor:-0.16377	loss critic:228.91475
+INFO:root:Epoch: 120 	 reward:-51.95	loss actor:-0.11965	loss critic:224.45338	eval reward: -887.80	mean reward: -436.20	best reward: -93.07
+INFO:root:Epoch: 121 	 reward:-791.53	loss actor:0.49349	loss critic:10.52142
+INFO:root:Epoch: 122 	 reward:-713.51	loss actor:3.96832	loss critic:21.60339
+INFO:root:Epoch: 123 	 reward:-797.24	loss actor:4.05367	loss critic:17.20370
+INFO:root:Epoch: 124 	 reward:-138.67	loss actor:2.19541	loss critic:31.87985
+INFO:root:Epoch: 125 	 reward:-725.35	loss actor:2.10017	loss critic:22.32965
+INFO:root:Epoch: 126 	 reward:-698.83	loss actor:-2.34584	loss critic:15.92480
+INFO:root:Epoch: 127 	 reward:-473.57	loss actor:-2.65877	loss critic:24.62188
+INFO:root:Epoch: 128 	 reward:-860.03	loss actor:-5.39406	loss critic:36.03069
+INFO:root:Epoch: 129 	 reward:-114.75	loss actor:-3.45595	loss critic:23.03520
+INFO:root:Epoch: 130 	 reward:-354.48	loss actor:-2.59363	loss critic:16.13303	eval reward: -182.43	mean reward: -416.68	best reward: -93.07
+INFO:root:Epoch: 131 	 reward:-101.42	loss actor:0.40914	loss critic:149.81075
+INFO:root:Epoch: 132 	 reward:-738.47	loss actor:2.61950	loss critic:16.68134
+INFO:root:Epoch: 133 	 reward:-740.84	loss actor:4.90199	loss critic:38.71893
+INFO:root:Epoch: 134 	 reward:-137.02	loss actor:5.53970	loss critic:142.97527
+INFO:root:Epoch: 135 	 reward:-27.61	loss actor:4.01726	loss critic:94.75792
+INFO:root:Epoch: 136 	 reward:-116.69	loss actor:1.71277	loss critic:118.81069
+INFO:root:Epoch: 137 	 reward:-778.12	loss actor:0.94307	loss critic:23.51741
+INFO:root:Epoch: 138 	 reward:-679.16	loss actor:-0.53908	loss critic:10.87400
+INFO:root:Epoch: 139 	 reward:-677.26	loss actor:-2.87418	loss critic:252.72394
+INFO:root:Epoch: 140 	 reward:-216.19	loss actor:-2.77819	loss critic:27.57444	eval reward: 3.12	mean reward: -386.69	best reward: 3.12
+INFO:root:Epoch: 141 	 reward:-126.90	loss actor:-3.30748	loss critic:32.49425
+INFO:root:Epoch: 142 	 reward:-185.76	loss actor:-4.90052	loss critic:268.73770
+INFO:root:Epoch: 143 	 reward:11.04	loss actor:-2.56131	loss critic:24.59891
+INFO:root:Epoch: 144 	 reward:-196.61	loss actor:-3.76333	loss critic:16.54084
+INFO:root:Epoch: 145 	 reward:-685.53	loss actor:-0.79949	loss critic:12.25970
+INFO:root:Epoch: 146 	 reward:-860.59	loss actor:-0.32822	loss critic:9.57038
+INFO:root:Epoch: 147 	 reward:-28.87	loss actor:0.13629	loss critic:124.71912
+INFO:root:Epoch: 148 	 reward:-602.07	loss actor:2.05453	loss critic:344.14960
+INFO:root:Epoch: 149 	 reward:-668.85	loss actor:4.56235	loss critic:108.89508
+INFO:root:Epoch: 150 	 reward:-117.84	loss actor:6.53626	loss critic:149.03168	eval reward: -771.02	mean reward: -412.31	best reward: 3.12
+INFO:root:Epoch: 151 	 reward:-403.74	loss actor:6.20558	loss critic:72.41323
+INFO:root:Epoch: 152 	 reward:-718.77	loss actor:4.17950	loss critic:144.73569
+INFO:root:Epoch: 153 	 reward:-612.77	loss actor:3.32540	loss critic:28.21012
+INFO:root:Epoch: 154 	 reward:-40.51	loss actor:-0.03970	loss critic:129.02415
+INFO:root:Epoch: 155 	 reward:-762.51	loss actor:-3.17663	loss critic:14.48637
+INFO:root:Epoch: 156 	 reward:-755.01	loss actor:-2.51278	loss critic:98.38171
+INFO:root:Epoch: 157 	 reward:-608.54	loss actor:-5.39179	loss critic:170.35120
+INFO:root:Epoch: 158 	 reward:-45.46	loss actor:-3.26171	loss critic:17.35558
+INFO:root:Epoch: 159 	 reward:-699.02	loss actor:-2.68254	loss critic:6.58741
+INFO:root:Epoch: 160 	 reward:-124.80	loss actor:-0.53017	loss critic:5.24517	eval reward: -591.84	mean reward: -423.53	best reward: 3.12
+INFO:root:Epoch: 161 	 reward:-769.07	loss actor:2.99390	loss critic:32.62746
+INFO:root:Epoch: 162 	 reward:-192.08	loss actor:2.46441	loss critic:137.14633
+INFO:root:Epoch: 163 	 reward:-666.87	loss actor:1.35451	loss critic:9.45955
+INFO:root:Epoch: 164 	 reward:-709.32	loss actor:0.15394	loss critic:12.50734
+INFO:root:Epoch: 165 	 reward:-579.27	loss actor:0.44374	loss critic:38.45955
+INFO:root:Epoch: 166 	 reward:-771.69	loss actor:0.19681	loss critic:23.53729
+INFO:root:Epoch: 167 	 reward:-327.45	loss actor:-2.18067	loss critic:157.73692
+INFO:root:Epoch: 168 	 reward:-813.04	loss actor:-3.24373	loss critic:139.89217
+INFO:root:Epoch: 169 	 reward:-839.52	loss actor:-0.91074	loss critic:151.93832
+INFO:root:Epoch: 170 	 reward:-564.39	loss actor:1.04674	loss critic:75.30357	eval reward: -766.73	mean reward: -443.72	best reward: 3.12
+INFO:root:Epoch: 171 	 reward:-886.86	loss actor:2.31950	loss critic:65.28502
+INFO:root:Epoch: 172 	 reward:-780.58	loss actor:3.77050	loss critic:140.74931
+INFO:root:Epoch: 173 	 reward:-696.16	loss actor:7.76964	loss critic:176.13791
+INFO:root:Epoch: 174 	 reward:-759.60	loss actor:4.77102	loss critic:73.80786
+INFO:root:Epoch: 175 	 reward:-517.47	loss actor:1.90448	loss critic:25.14065
+INFO:root:Epoch: 176 	 reward:-698.56	loss actor:0.03072	loss critic:7.99109
+INFO:root:Epoch: 177 	 reward:-656.10	loss actor:-2.15151	loss critic:14.63636
+INFO:root:Epoch: 178 	 reward:-689.10	loss actor:-4.25504	loss critic:26.77403
+INFO:root:Epoch: 179 	 reward:-731.04	loss actor:-3.48387	loss critic:193.79630
+INFO:root:Epoch: 180 	 reward:-773.75	loss actor:-3.41374	loss critic:19.55747	eval reward: -727.67	mean reward: -459.50	best reward: 3.12
+INFO:root:Epoch: 181 	 reward:-741.01	loss actor:0.41967	loss critic:124.05827
+INFO:root:Epoch: 182 	 reward:-663.52	loss actor:1.16813	loss critic:8.82856
+INFO:root:Epoch: 183 	 reward:-466.55	loss actor:3.48213	loss critic:123.69168
+INFO:root:Epoch: 184 	 reward:-707.90	loss actor:4.55900	loss critic:24.75604
+INFO:root:Epoch: 185 	 reward:-988.47	loss actor:4.24042	loss critic:24.71609
+INFO:root:Epoch: 186 	 reward:-743.83	loss actor:5.17127	loss critic:41.94252
+INFO:root:Epoch: 187 	 reward:-750.95	loss actor:2.56201	loss critic:14.34729
+INFO:root:Epoch: 188 	 reward:-897.57	loss actor:-0.36347	loss critic:7.65404
+INFO:root:Epoch: 189 	 reward:-669.68	loss actor:-1.90550	loss critic:25.67727
+INFO:root:Epoch: 190 	 reward:-564.78	loss actor:-4.44193	loss critic:19.43943	eval reward: -710.31	mean reward: -472.70	best reward: 3.12
+INFO:root:Epoch: 191 	 reward:-699.93	loss actor:-3.75332	loss critic:18.84746
+INFO:root:Epoch: 192 	 reward:-879.84	loss actor:-1.61889	loss critic:11.65345
+INFO:root:Epoch: 193 	 reward:-885.28	loss actor:0.22175	loss critic:134.72469
+INFO:root:Epoch: 194 	 reward:-48.82	loss actor:2.53773	loss critic:14.68192
+INFO:root:Epoch: 195 	 reward:-837.80	loss actor:4.16499	loss critic:100.09982
+INFO:root:Epoch: 196 	 reward:-308.46	loss actor:6.40596	loss critic:387.47049
+INFO:root:Epoch: 197 	 reward:-749.50	loss actor:6.08187	loss critic:41.55936
+INFO:root:Epoch: 198 	 reward:-620.88	loss actor:6.30846	loss critic:155.15436
+INFO:root:Epoch: 199 	 reward:-757.20	loss actor:7.16267	loss critic:215.36264
+INFO:root:Epoch: 200 	 reward:-716.44	loss actor:3.81020	loss critic:98.26172	eval reward: -635.53	mean reward: -480.84	best reward: 3.12
+INFO:root:Epoch: 201 	 reward:-759.17	loss actor:1.61036	loss critic:33.09570
+INFO:root:Epoch: 202 	 reward:-791.62	loss actor:-4.91913	loss critic:330.16229
+INFO:root:Epoch: 203 	 reward:-225.76	loss actor:-2.39900	loss critic:26.83228
+INFO:root:Epoch: 204 	 reward:-916.04	loss actor:-3.83404	loss critic:120.26047
+INFO:root:Epoch: 205 	 reward:-728.58	loss actor:-1.31140	loss critic:13.93596
+INFO:root:Epoch: 206 	 reward:-1277.12	loss actor:1.04199	loss critic:243.98398
+INFO:root:Epoch: 207 	 reward:-697.67	loss actor:3.19855	loss critic:21.29826
+INFO:root:Epoch: 208 	 reward:-681.31	loss actor:5.06767	loss critic:31.33322
+INFO:root:Epoch: 209 	 reward:-839.99	loss actor:7.00079	loss critic:133.75331
+INFO:root:Epoch: 210 	 reward:-550.94	loss actor:7.30603	loss critic:73.52542	eval reward: -1255.13	mean reward: -517.71	best reward: 3.12
+INFO:root:Epoch: 211 	 reward:-1189.52	loss actor:7.00039	loss critic:196.21518
+INFO:root:Epoch: 212 	 reward:-803.36	loss actor:2.22933	loss critic:13.67164
+INFO:root:Epoch: 213 	 reward:-495.06	loss actor:0.53623	loss critic:135.56778
+INFO:root:Epoch: 214 	 reward:-660.80	loss actor:-0.14482	loss critic:222.99739
+INFO:root:Epoch: 215 	 reward:-630.28	loss actor:-2.42846	loss critic:19.03073
+INFO:root:Epoch: 216 	 reward:-836.15	loss actor:-3.04377	loss critic:20.19359
+INFO:root:Epoch: 217 	 reward:-730.16	loss actor:-1.92357	loss critic:7.02699
+INFO:root:Epoch: 218 	 reward:-1303.81	loss actor:-0.75737	loss critic:11.88908
+INFO:root:Epoch: 219 	 reward:-1002.24	loss actor:0.93060	loss critic:12.17586
+INFO:root:Epoch: 220 	 reward:-773.68	loss actor:0.53694	loss critic:401.66208	eval reward: -608.36	mean reward: -521.83	best reward: 3.12
+INFO:root:Epoch: 221 	 reward:-825.22	loss actor:3.04761	loss critic:11.14182
+INFO:root:Epoch: 222 	 reward:-679.13	loss actor:2.91744	loss critic:12.73229
+INFO:root:Epoch: 223 	 reward:-423.65	loss actor:3.67257	loss critic:144.29259
+INFO:root:Epoch: 224 	 reward:-663.88	loss actor:4.64659	loss critic:19.25413
+INFO:root:Epoch: 225 	 reward:-589.02	loss actor:1.09144	loss critic:6.28551
+INFO:root:Epoch: 226 	 reward:-594.07	loss actor:0.12672	loss critic:12.92649
+INFO:root:Epoch: 227 	 reward:-789.06	loss actor:-1.94933	loss critic:163.94928
+INFO:root:Epoch: 228 	 reward:-780.38	loss actor:0.02933	loss critic:20.83791
+INFO:root:Epoch: 229 	 reward:-377.25	loss actor:-1.21080	loss critic:275.66547
+INFO:root:Epoch: 230 	 reward:-763.83	loss actor:1.86253	loss critic:13.04618	eval reward: -874.14	mean reward: -537.15	best reward: 3.12
+INFO:root:Epoch: 231 	 reward:-805.21	loss actor:4.57000	loss critic:18.64550
+INFO:root:Epoch: 232 	 reward:-562.61	loss actor:5.68114	loss critic:47.71830
+INFO:root:Epoch: 233 	 reward:-640.73	loss actor:4.95270	loss critic:174.09824
+INFO:root:Epoch: 234 	 reward:-755.95	loss actor:6.50816	loss critic:149.31160
+INFO:root:Epoch: 235 	 reward:-503.85	loss actor:6.81443	loss critic:41.41517
+INFO:root:Epoch: 236 	 reward:-630.64	loss actor:3.20365	loss critic:15.60176
+INFO:root:Epoch: 237 	 reward:-822.74	loss actor:0.80645	loss critic:28.46992
+INFO:root:Epoch: 238 	 reward:-358.78	loss actor:-1.09443	loss critic:37.60213
+INFO:root:Epoch: 239 	 reward:-1012.30	loss actor:-2.35241	loss critic:180.71506
+INFO:root:Epoch: 240 	 reward:-613.15	loss actor:-3.33265	loss critic:28.13038	eval reward: -547.23	mean reward: -537.57	best reward: 3.12
+INFO:root:Epoch: 241 	 reward:-338.86	loss actor:-3.07934	loss critic:15.81458
+INFO:root:Epoch: 242 	 reward:-666.19	loss actor:0.28805	loss critic:299.34521
+INFO:root:Epoch: 243 	 reward:-779.24	loss actor:2.15043	loss critic:9.88046
+INFO:root:Epoch: 244 	 reward:-873.26	loss actor:4.52321	loss critic:28.77332
+INFO:root:Epoch: 245 	 reward:-667.19	loss actor:5.85206	loss critic:125.72222
+INFO:root:Epoch: 246 	 reward:-639.95	loss actor:6.02803	loss critic:126.53529
+INFO:root:Epoch: 247 	 reward:-1198.04	loss actor:3.26076	loss critic:22.69876
+INFO:root:Epoch: 248 	 reward:-239.60	loss actor:2.41738	loss critic:109.01183
+INFO:root:Epoch: 249 	 reward:-449.57	loss actor:1.72926	loss critic:164.16785
+INFO:root:Epoch: 250 	 reward:-630.07	loss actor:1.10482	loss critic:16.51881	eval reward: -714.14	mean reward: -544.63	best reward: 3.12
+INFO:root:Epoch: 251 	 reward:-319.51	loss actor:1.86429	loss critic:99.27351
+INFO:root:Epoch: 252 	 reward:-978.12	loss actor:0.21284	loss critic:21.96716
+INFO:root:Epoch: 253 	 reward:-749.68	loss actor:0.53300	loss critic:17.04160
+INFO:root:Epoch: 254 	 reward:-694.25	loss actor:0.72789	loss critic:469.86127
+INFO:root:Epoch: 255 	 reward:-812.23	loss actor:1.57092	loss critic:18.77827
+INFO:root:Epoch: 256 	 reward:-255.92	loss actor:2.28383	loss critic:58.03651
+INFO:root:Epoch: 257 	 reward:-368.12	loss actor:1.59950	loss critic:104.83318
+INFO:root:Epoch: 258 	 reward:-311.93	loss actor:2.79040	loss critic:36.88585
+INFO:root:Epoch: 259 	 reward:-1073.92	loss actor:1.18795	loss critic:59.64776
+INFO:root:Epoch: 260 	 reward:-505.70	loss actor:1.34258	loss critic:203.16187	eval reward: -845.06	mean reward: -556.19	best reward: 3.12
+INFO:root:Epoch: 261 	 reward:-732.55	loss actor:2.33281	loss critic:138.87091
+INFO:root:Epoch: 262 	 reward:-671.36	loss actor:1.50165	loss critic:180.45285
+INFO:root:Epoch: 263 	 reward:-890.84	loss actor:1.69637	loss critic:11.59455
+INFO:root:Epoch: 264 	 reward:-571.71	loss actor:3.51072	loss critic:41.29790
+INFO:root:Epoch: 265 	 reward:-621.09	loss actor:2.91732	loss critic:13.59269
+INFO:root:Epoch: 266 	 reward:-516.90	loss actor:3.52729	loss critic:17.93375
+INFO:root:Epoch: 267 	 reward:-815.78	loss actor:1.86299	loss critic:11.16287
+INFO:root:Epoch: 268 	 reward:-228.80	loss actor:1.88132	loss critic:402.64792
+INFO:root:Epoch: 269 	 reward:-452.32	loss actor:1.93467	loss critic:92.14395
+INFO:root:Epoch: 270 	 reward:-277.55	loss actor:2.25843	loss critic:126.76015	eval reward: -308.28	mean reward: -547.00	best reward: 3.12
+INFO:root:Epoch: 271 	 reward:-314.94	loss actor:1.20288	loss critic:144.25375
+INFO:root:Epoch: 272 	 reward:-893.84	loss actor:0.22620	loss critic:10.48315
+INFO:root:Epoch: 273 	 reward:-573.30	loss actor:-0.31740	loss critic:19.89846
+INFO:root:Epoch: 274 	 reward:-406.55	loss actor:0.94385	loss critic:37.63969
+INFO:root:Epoch: 275 	 reward:-991.38	loss actor:-0.06263	loss critic:148.02650
+INFO:root:Epoch: 276 	 reward:-833.04	loss actor:1.41556	loss critic:15.70013
+INFO:root:Epoch: 277 	 reward:-562.27	loss actor:-2.50186	loss critic:106.83178
+INFO:root:Epoch: 278 	 reward:-658.04	loss actor:-0.30041	loss critic:145.90092
+INFO:root:Epoch: 279 	 reward:-915.22	loss actor:0.47717	loss critic:7.93700
+INFO:root:Epoch: 280 	 reward:-363.59	loss actor:3.38313	loss critic:16.42011	eval reward: -805.24	mean reward: -556.23	best reward: 3.12
+INFO:root:Epoch: 281 	 reward:-939.95	loss actor:3.79500	loss critic:91.21129
+INFO:root:Epoch: 282 	 reward:-257.84	loss actor:2.07072	loss critic:5.02587
+INFO:root:Epoch: 283 	 reward:-776.13	loss actor:0.73880	loss critic:6.26462
+INFO:root:Epoch: 284 	 reward:-323.15	loss actor:3.15408	loss critic:14.76542
+INFO:root:Epoch: 285 	 reward:-301.50	loss actor:1.53821	loss critic:28.95073
+INFO:root:Epoch: 286 	 reward:-684.50	loss actor:3.02002	loss critic:144.08408
+INFO:root:Epoch: 287 	 reward:-503.92	loss actor:-0.57400	loss critic:10.13575
+INFO:root:Epoch: 288 	 reward:-364.98	loss actor:0.97103	loss critic:146.47293
+INFO:root:Epoch: 289 	 reward:-318.92	loss actor:1.23645	loss critic:156.32094
+INFO:root:Epoch: 290 	 reward:-310.10	loss actor:3.03964	loss critic:10.38307	eval reward: -240.25	mean reward: -545.33	best reward: 3.12
+INFO:root:Epoch: 291 	 reward:-335.62	loss actor:4.11499	loss critic:123.30745
+INFO:root:Epoch: 292 	 reward:-298.80	loss actor:6.07922	loss critic:22.18772
+INFO:root:Epoch: 293 	 reward:-741.01	loss actor:3.11258	loss critic:15.89754
+INFO:root:Epoch: 294 	 reward:-280.94	loss actor:3.50615	loss critic:28.01241
+INFO:root:Epoch: 295 	 reward:-172.89	loss actor:2.06837	loss critic:136.04802
+INFO:root:Epoch: 296 	 reward:-409.32	loss actor:-0.26422	loss critic:8.57853
+INFO:root:Epoch: 297 	 reward:-293.87	loss actor:0.19428	loss critic:4.57355
+INFO:root:Epoch: 298 	 reward:-332.14	loss actor:-0.54584	loss critic:292.51865
+INFO:root:Epoch: 299 	 reward:-1182.77	loss actor:-0.61424	loss critic:9.17597
+INFO:root:Epoch: 300 	 reward:-289.72	loss actor:0.53859	loss critic:13.56690	eval reward: -923.38	mean reward: -557.93	best reward: 3.12
+INFO:root:Epoch: 301 	 reward:-314.06	loss actor:4.00765	loss critic:100.42115
+INFO:root:Epoch: 302 	 reward:-670.15	loss actor:0.55926	loss critic:122.08954
+INFO:root:Epoch: 303 	 reward:-585.54	loss actor:3.61732	loss critic:9.53847
+INFO:root:Epoch: 304 	 reward:-815.62	loss actor:3.04014	loss critic:7.73942
+INFO:root:Epoch: 305 	 reward:-809.26	loss actor:1.04570	loss critic:109.71453
+INFO:root:Epoch: 306 	 reward:-496.59	loss actor:1.49699	loss critic:11.74852
+INFO:root:Epoch: 307 	 reward:-419.71	loss actor:1.43563	loss critic:13.42128
+INFO:root:Epoch: 308 	 reward:-881.22	loss actor:1.21481	loss critic:120.99263
+INFO:root:Epoch: 309 	 reward:-519.33	loss actor:2.14907	loss critic:13.14559
+INFO:root:Epoch: 310 	 reward:-242.28	loss actor:0.40648	loss critic:44.41145	eval reward: -247.44	mean reward: -547.92	best reward: 3.12
+INFO:root:Epoch: 311 	 reward:-655.13	loss actor:-0.07369	loss critic:196.48497
+INFO:root:Epoch: 312 	 reward:-199.17	loss actor:1.11910	loss critic:4.43001
+INFO:root:Epoch: 313 	 reward:-1146.45	loss actor:1.39767	loss critic:4.76921
+INFO:root:Epoch: 314 	 reward:-945.56	loss actor:2.02760	loss critic:11.07697
+INFO:root:Epoch: 315 	 reward:-609.54	loss actor:3.72179	loss critic:13.51529
+INFO:root:Epoch: 316 	 reward:-275.81	loss actor:1.37557	loss critic:7.05926
+INFO:root:Epoch: 317 	 reward:-319.77	loss actor:0.56286	loss critic:90.31435
+INFO:root:Epoch: 318 	 reward:-994.59	loss actor:1.55207	loss critic:5.45059
+INFO:root:Epoch: 319 	 reward:-747.16	loss actor:2.81816	loss critic:110.12274
+INFO:root:Epoch: 320 	 reward:-206.86	loss actor:1.90945	loss critic:236.98975	eval reward: -379.76	mean reward: -542.66	best reward: 3.12
+INFO:root:Epoch: 321 	 reward:-180.56	loss actor:2.86284	loss critic:36.93429
+INFO:root:Epoch: 322 	 reward:-345.79	loss actor:2.92356	loss critic:9.13139
+INFO:root:Epoch: 323 	 reward:-232.03	loss actor:2.29769	loss critic:17.77785
+INFO:root:Epoch: 324 	 reward:-569.77	loss actor:3.09975	loss critic:53.79600
+INFO:root:Epoch: 325 	 reward:-787.34	loss actor:1.32816	loss critic:12.27015
+INFO:root:Epoch: 326 	 reward:-868.04	loss actor:0.83441	loss critic:136.45926
+INFO:root:Epoch: 327 	 reward:-721.91	loss actor:-0.86250	loss critic:251.72629
+INFO:root:Epoch: 328 	 reward:-220.18	loss actor:1.07020	loss critic:118.00231
+INFO:root:Epoch: 329 	 reward:-792.42	loss actor:2.76167	loss critic:41.95203
+INFO:root:Epoch: 330 	 reward:-164.66	loss actor:4.38892	loss critic:94.10970	eval reward: -364.69	mean reward: -537.27	best reward: 3.12
+INFO:root:Epoch: 331 	 reward:-615.55	loss actor:5.11510	loss critic:66.20177
+INFO:root:Epoch: 332 	 reward:-976.86	loss actor:3.49697	loss critic:301.66095
+INFO:root:Epoch: 333 	 reward:-333.34	loss actor:2.37675	loss critic:17.44588
+INFO:root:Epoch: 334 	 reward:-233.75	loss actor:1.78679	loss critic:166.40016
+INFO:root:Epoch: 335 	 reward:-781.58	loss actor:0.03103	loss critic:10.07515
+INFO:root:Epoch: 336 	 reward:-599.44	loss actor:-2.39941	loss critic:116.33689
+INFO:root:Epoch: 337 	 reward:-797.74	loss actor:-0.98216	loss critic:182.98689
+INFO:root:Epoch: 338 	 reward:-193.20	loss actor:-0.21515	loss critic:158.69638
+INFO:root:Epoch: 339 	 reward:-1126.02	loss actor:-0.07806	loss critic:180.91377
+INFO:root:Epoch: 340 	 reward:-313.34	loss actor:1.73841	loss critic:9.10833	eval reward: -232.38	mean reward: -528.30	best reward: 3.12
+INFO:root:Epoch: 341 	 reward:-688.64	loss actor:2.33540	loss critic:14.30672
+INFO:root:Epoch: 342 	 reward:-712.19	loss actor:4.10801	loss critic:38.30280
+INFO:root:Epoch: 343 	 reward:-602.71	loss actor:2.95464	loss critic:32.79779
+INFO:root:Epoch: 344 	 reward:-798.96	loss actor:3.97672	loss critic:16.08768
+INFO:root:Epoch: 345 	 reward:-141.57	loss actor:1.53516	loss critic:3.86696
+INFO:root:Epoch: 346 	 reward:-957.59	loss actor:-0.44597	loss critic:220.87677
+INFO:root:Epoch: 347 	 reward:-977.73	loss actor:0.04484	loss critic:10.49738
+INFO:root:Epoch: 348 	 reward:-351.40	loss actor:-2.24679	loss critic:8.59690
+INFO:root:Epoch: 349 	 reward:-857.42	loss actor:-0.77104	loss critic:13.62491
+INFO:root:Epoch: 350 	 reward:-310.28	loss actor:1.51997	loss critic:12.23046	eval reward: -1044.83	mean reward: -543.06	best reward: 3.12
+INFO:root:Epoch: 351 	 reward:-798.13	loss actor:2.75686	loss critic:97.37022
+INFO:root:Epoch: 352 	 reward:-190.20	loss actor:1.96538	loss critic:17.31812
+INFO:root:Epoch: 353 	 reward:-1023.95	loss actor:2.22994	loss critic:5.84820
+INFO:root:Epoch: 354 	 reward:-975.01	loss actor:3.82535	loss critic:215.62976
+INFO:root:Epoch: 355 	 reward:-171.76	loss actor:1.40041	loss critic:10.47182
+INFO:root:Epoch: 356 	 reward:-264.58	loss actor:0.60825	loss critic:4.39185
+INFO:root:Epoch: 357 	 reward:-313.20	loss actor:-2.21137	loss critic:169.34801
+INFO:root:Epoch: 358 	 reward:-278.68	loss actor:-3.34346	loss critic:20.92431
+INFO:root:Epoch: 359 	 reward:-751.63	loss actor:-2.13352	loss critic:8.63837
+INFO:root:Epoch: 360 	 reward:-746.19	loss actor:0.11207	loss critic:152.15517	eval reward: -925.68	mean reward: -553.69	best reward: 3.12
+INFO:root:Epoch: 361 	 reward:-968.04	loss actor:2.94777	loss critic:11.01260
+INFO:root:Epoch: 362 	 reward:-713.55	loss actor:3.17775	loss critic:20.49231
+INFO:root:Epoch: 363 	 reward:-741.76	loss actor:4.06575	loss critic:21.49073
+INFO:root:Epoch: 364 	 reward:-903.04	loss actor:4.08082	loss critic:31.23756
+INFO:root:Epoch: 365 	 reward:-1197.99	loss actor:3.98654	loss critic:12.82939
+INFO:root:Epoch: 366 	 reward:-748.08	loss actor:2.98797	loss critic:158.11974
+INFO:root:Epoch: 367 	 reward:-909.60	loss actor:1.72874	loss critic:4.42323
+INFO:root:Epoch: 368 	 reward:-763.22	loss actor:2.09549	loss critic:4.88706
+INFO:root:Epoch: 369 	 reward:-941.96	loss actor:-0.46474	loss critic:11.01275
+INFO:root:Epoch: 370 	 reward:-102.92	loss actor:-0.17553	loss critic:7.27239	eval reward: -941.01	mean reward: -564.16	best reward: 3.12
+INFO:root:Epoch: 371 	 reward:-690.96	loss actor:-1.07310	loss critic:153.68077
+INFO:root:Epoch: 372 	 reward:-639.31	loss actor:-0.36443	loss critic:6.27909
+INFO:root:Epoch: 373 	 reward:-33.29	loss actor:0.23176	loss critic:167.06734
+INFO:root:Epoch: 374 	 reward:-728.90	loss actor:1.90789	loss critic:129.17847
+INFO:root:Epoch: 375 	 reward:-935.21	loss actor:4.31123	loss critic:32.67154
+INFO:root:Epoch: 376 	 reward:-268.62	loss actor:3.01863	loss critic:108.89755
+INFO:root:Epoch: 377 	 reward:-702.96	loss actor:4.65817	loss critic:190.39372
+INFO:root:Epoch: 378 	 reward:-744.03	loss actor:3.07530	loss critic:12.48351
+INFO:root:Epoch: 379 	 reward:-228.20	loss actor:3.06157	loss critic:223.00919
+INFO:root:Epoch: 380 	 reward:-301.99	loss actor:2.30572	loss critic:11.40061	eval reward: -820.03	mean reward: -570.89	best reward: 3.12
+INFO:root:Epoch: 381 	 reward:-317.34	loss actor:0.71609	loss critic:14.26100
+INFO:root:Epoch: 382 	 reward:-331.13	loss actor:1.69703	loss critic:14.38332
+INFO:root:Epoch: 383 	 reward:-323.26	loss actor:-0.15931	loss critic:114.32735
+INFO:root:Epoch: 384 	 reward:-670.02	loss actor:0.31746	loss critic:11.99885
+INFO:root:Epoch: 385 	 reward:-677.81	loss actor:-0.07100	loss critic:70.40827
+INFO:root:Epoch: 386 	 reward:-340.37	loss actor:1.18782	loss critic:13.07882
+INFO:root:Epoch: 387 	 reward:-477.09	loss actor:0.53970	loss critic:17.30197
+INFO:root:Epoch: 388 	 reward:-586.50	loss actor:1.03126	loss critic:6.20665
+INFO:root:Epoch: 389 	 reward:-275.63	loss actor:0.58446	loss critic:3.05725
+INFO:root:Epoch: 390 	 reward:-244.82	loss actor:2.54864	loss critic:139.75339	eval reward: -232.19	mean reward: -562.21	best reward: 3.12
+INFO:root:Epoch: 391 	 reward:-703.18	loss actor:1.52134	loss critic:3.47760
+INFO:root:Epoch: 392 	 reward:-304.54	loss actor:1.61054	loss critic:170.67336
+INFO:root:Epoch: 393 	 reward:-248.73	loss actor:2.78158	loss critic:6.99627
+INFO:root:Epoch: 394 	 reward:-661.03	loss actor:4.31218	loss critic:20.79419
+INFO:root:Epoch: 395 	 reward:-290.13	loss actor:3.03103	loss critic:29.40523
+INFO:root:Epoch: 396 	 reward:-332.26	loss actor:1.49764	loss critic:3.79279
+INFO:root:Epoch: 397 	 reward:-269.10	loss actor:1.20899	loss critic:6.08515
+INFO:root:Epoch: 398 	 reward:-411.88	loss actor:0.08472	loss critic:104.52042
+INFO:root:Epoch: 399 	 reward:-286.60	loss actor:-1.96374	loss critic:251.10117
+INFO:root:Epoch: 400 	 reward:-616.95	loss actor:3.37965	loss critic:158.54503	eval reward: -690.15	mean reward: -565.40	best reward: 3.12
+INFO:root:Epoch: 401 	 reward:-222.89	loss actor:0.61611	loss critic:3.81442
+INFO:root:Epoch: 402 	 reward:-249.43	loss actor:3.61870	loss critic:137.51628
+INFO:root:Epoch: 403 	 reward:-19.35	loss actor:2.63620	loss critic:117.41610
+INFO:root:Epoch: 404 	 reward:-588.63	loss actor:3.80648	loss critic:8.87915
+INFO:root:Epoch: 405 	 reward:-258.24	loss actor:2.16854	loss critic:5.79789
+INFO:root:Epoch: 406 	 reward:-323.45	loss actor:3.38989	loss critic:7.61416
+INFO:root:Epoch: 407 	 reward:-343.83	loss actor:-0.19621	loss critic:3.21002
+INFO:root:Epoch: 408 	 reward:-2194.12	loss actor:0.62333	loss critic:8.64522
+INFO:root:Epoch: 409 	 reward:-444.95	loss actor:-0.79514	loss critic:32.42620
+INFO:root:Epoch: 410 	 reward:-581.00	loss actor:0.08493	loss critic:77.18298	eval reward: -585.93	mean reward: -565.90	best reward: 3.12
+INFO:root:Epoch: 411 	 reward:-280.56	loss actor:0.24059	loss critic:15.35241
+INFO:root:Epoch: 412 	 reward:-510.35	loss actor:0.10605	loss critic:6.84666
+INFO:root:Epoch: 413 	 reward:-578.68	loss actor:0.48376	loss critic:50.77063
+INFO:root:Epoch: 414 	 reward:-249.72	loss actor:-0.12591	loss critic:255.79494
+INFO:root:Epoch: 415 	 reward:-502.29	loss actor:2.95654	loss critic:12.48996
+INFO:root:Epoch: 416 	 reward:-453.42	loss actor:5.82491	loss critic:155.02435
+INFO:root:Epoch: 417 	 reward:-244.02	loss actor:4.07089	loss critic:97.17720
+INFO:root:Epoch: 418 	 reward:-238.46	loss actor:2.83751	loss critic:277.07642
+INFO:root:Epoch: 419 	 reward:-283.33	loss actor:3.78705	loss critic:23.72730
+INFO:root:Epoch: 420 	 reward:-527.30	loss actor:3.15814	loss critic:8.60151	eval reward: -611.73	mean reward: -567.00	best reward: 3.12
+INFO:root:Epoch: 421 	 reward:-694.73	loss actor:1.55077	loss critic:229.86369
+INFO:root:Epoch: 422 	 reward:-397.46	loss actor:-1.41047	loss critic:7.95326
+INFO:root:Epoch: 423 	 reward:-264.65	loss actor:1.74656	loss critic:6.45537
+INFO:root:Epoch: 424 	 reward:-297.52	loss actor:0.91912	loss critic:127.63807
+INFO:root:Epoch: 425 	 reward:-579.35	loss actor:0.51523	loss critic:6.27994
+INFO:root:Epoch: 426 	 reward:-516.67	loss actor:2.12534	loss critic:6.71341
+INFO:root:Epoch: 427 	 reward:-459.92	loss actor:1.02122	loss critic:6.79283
+INFO:root:Epoch: 428 	 reward:-316.63	loss actor:0.45682	loss critic:223.79196
+INFO:root:Epoch: 429 	 reward:-423.43	loss actor:1.67913	loss critic:4.83459
+INFO:root:Epoch: 430 	 reward:-544.88	loss actor:-0.40620	loss critic:5.64961	eval reward: -282.45	mean reward: -560.38	best reward: 3.12
+INFO:root:Epoch: 431 	 reward:-226.66	loss actor:0.37688	loss critic:10.23412
+INFO:root:Epoch: 432 	 reward:-537.49	loss actor:0.69537	loss critic:120.29768
+INFO:root:Epoch: 433 	 reward:-464.20	loss actor:2.00273	loss critic:158.30408
+INFO:root:Epoch: 434 	 reward:-171.36	loss actor:4.48596	loss critic:25.84111
+INFO:root:Epoch: 435 	 reward:-446.37	loss actor:4.39623	loss critic:27.84733
+INFO:root:Epoch: 436 	 reward:-145.90	loss actor:2.54540	loss critic:24.38908
+INFO:root:Epoch: 437 	 reward:-284.22	loss actor:2.47946	loss critic:10.33224
+INFO:root:Epoch: 438 	 reward:-325.89	loss actor:-0.31277	loss critic:9.47514
+INFO:root:Epoch: 439 	 reward:-134.62	loss actor:-1.46338	loss critic:167.77109
+INFO:root:Epoch: 440 	 reward:-609.35	loss actor:0.59469	loss critic:244.01848	eval reward: -484.42	mean reward: -558.65	best reward: 3.12
+INFO:root:Epoch: 441 	 reward:-383.10	loss actor:1.37892	loss critic:3.47274
+INFO:root:Epoch: 442 	 reward:-459.49	loss actor:3.18875	loss critic:9.54819
+INFO:root:Epoch: 443 	 reward:-512.01	loss actor:2.31604	loss critic:7.18398
+INFO:root:Epoch: 444 	 reward:-456.08	loss actor:3.78252	loss critic:211.16144
+INFO:root:Epoch: 445 	 reward:-517.30	loss actor:2.76342	loss critic:21.20394
+INFO:root:Epoch: 446 	 reward:-530.79	loss actor:1.18951	loss critic:15.13634
+INFO:root:Epoch: 447 	 reward:-307.06	loss actor:0.22630	loss critic:4.11669
+INFO:root:Epoch: 448 	 reward:-607.22	loss actor:-1.64002	loss critic:19.76215
+INFO:root:Epoch: 449 	 reward:-237.64	loss actor:-2.27970	loss critic:58.40142
+INFO:root:Epoch: 450 	 reward:-524.46	loss actor:-1.98569	loss critic:13.67719	eval reward: -262.08	mean reward: -552.06	best reward: 3.12
+INFO:root:Epoch: 451 	 reward:-331.79	loss actor:-0.90244	loss critic:9.59005
+INFO:root:Epoch: 452 	 reward:-279.35	loss actor:-0.22979	loss critic:4.68983
+INFO:root:Epoch: 453 	 reward:-349.42	loss actor:1.01470	loss critic:2.19534
+INFO:root:Epoch: 454 	 reward:-455.77	loss actor:3.14108	loss critic:99.43286
+INFO:root:Epoch: 455 	 reward:-426.20	loss actor:5.23300	loss critic:24.76105
+INFO:root:Epoch: 456 	 reward:-506.35	loss actor:4.39793	loss critic:393.57410
+INFO:root:Epoch: 457 	 reward:-285.07	loss actor:1.59376	loss critic:19.45808
+INFO:root:Epoch: 458 	 reward:-254.75	loss actor:1.88658	loss critic:64.02415
+INFO:root:Epoch: 459 	 reward:-412.52	loss actor:2.22856	loss critic:97.78046
+INFO:root:Epoch: 460 	 reward:-289.61	loss actor:1.54761	loss critic:8.97314	eval reward: -481.05	mean reward: -550.52	best reward: 3.12
+INFO:root:Epoch: 461 	 reward:-361.99	loss actor:2.90737	loss critic:7.63135
+INFO:root:Epoch: 462 	 reward:-326.80	loss actor:2.21210	loss critic:73.38630
+INFO:root:Epoch: 463 	 reward:-502.98	loss actor:-0.04729	loss critic:106.53011
+INFO:root:Epoch: 464 	 reward:-328.31	loss actor:0.15462	loss critic:6.63232
+INFO:root:Epoch: 465 	 reward:-373.70	loss actor:-0.24234	loss critic:238.95900
+INFO:root:Epoch: 466 	 reward:-527.61	loss actor:3.14854	loss critic:223.65292
+INFO:root:Epoch: 467 	 reward:-671.98	loss actor:5.30870	loss critic:35.84607
+INFO:root:Epoch: 468 	 reward:-606.06	loss actor:3.70369	loss critic:57.76398
+INFO:root:Epoch: 469 	 reward:-397.73	loss actor:4.75901	loss critic:37.46251
+INFO:root:Epoch: 470 	 reward:-312.64	loss actor:2.86229	loss critic:26.07033	eval reward: -343.75	mean reward: -546.12	best reward: 3.12
+INFO:root:Epoch: 471 	 reward:-80.54	loss actor:2.23403	loss critic:6.43332
+INFO:root:Epoch: 472 	 reward:-509.35	loss actor:-0.50038	loss critic:9.75297
+INFO:root:Epoch: 473 	 reward:-367.35	loss actor:-1.59735	loss critic:266.77005
+INFO:root:Epoch: 474 	 reward:-678.35	loss actor:-0.95775	loss critic:8.48531
+INFO:root:Epoch: 475 	 reward:-763.30	loss actor:-0.48265	loss critic:7.53296
+INFO:root:Epoch: 476 	 reward:-537.78	loss actor:0.56731	loss critic:4.70876
+INFO:root:Epoch: 477 	 reward:-369.36	loss actor:4.02579	loss critic:20.42958
+INFO:root:Epoch: 478 	 reward:-295.03	loss actor:3.26253	loss critic:194.03154
+INFO:root:Epoch: 479 	 reward:-422.70	loss actor:3.09065	loss critic:300.33960
+INFO:root:Epoch: 480 	 reward:-416.35	loss actor:2.35154	loss critic:15.53618	eval reward: -259.97	mean reward: -540.16	best reward: 3.12
+INFO:root:Epoch: 481 	 reward:-478.73	loss actor:3.31881	loss critic:40.22071
+INFO:root:Epoch: 482 	 reward:-279.39	loss actor:0.09007	loss critic:5.19987
+INFO:root:Epoch: 483 	 reward:-451.09	loss actor:-0.54110	loss critic:6.42678
+INFO:root:Epoch: 484 	 reward:-295.08	loss actor:-0.83182	loss critic:20.14360
+INFO:root:Epoch: 485 	 reward:-367.63	loss actor:-2.45927	loss critic:11.16715
+INFO:root:Epoch: 486 	 reward:-198.82	loss actor:-0.37711	loss critic:137.19867
+INFO:root:Epoch: 487 	 reward:-281.91	loss actor:-1.57413	loss critic:239.09842
+INFO:root:Epoch: 488 	 reward:-256.23	loss actor:2.56913	loss critic:4.78719
+INFO:root:Epoch: 489 	 reward:-343.88	loss actor:1.60652	loss critic:7.19695
+INFO:root:Epoch: 490 	 reward:-441.67	loss actor:3.94601	loss critic:17.49868	eval reward: -260.45	mean reward: -534.45	best reward: 3.12
+INFO:root:Epoch: 491 	 reward:-268.72	loss actor:3.89062	loss critic:17.25905
+INFO:root:Epoch: 492 	 reward:-388.03	loss actor:3.31393	loss critic:9.05388
+INFO:root:Epoch: 493 	 reward:-490.12	loss actor:1.29861	loss critic:7.49859
+INFO:root:Epoch: 494 	 reward:-488.56	loss actor:1.70370	loss critic:183.40758
+INFO:root:Epoch: 495 	 reward:-270.76	loss actor:-0.49800	loss critic:10.09936
+INFO:root:Epoch: 496 	 reward:-273.83	loss actor:-2.12283	loss critic:18.51187
+INFO:root:Epoch: 497 	 reward:-589.87	loss actor:-2.57293	loss critic:18.24928
+INFO:root:Epoch: 498 	 reward:-789.14	loss actor:-0.67087	loss critic:26.85976
+INFO:root:Epoch: 499 	 reward:-248.54	loss actor:-0.82633	loss critic:134.59721
+INFO:root:Epoch: 500 	 reward:-577.44	loss actor:2.68119	loss critic:150.55452	eval reward: -250.84	mean reward: -528.78	best reward: 3.12
+INFO:root:Epoch: 501 	 reward:-1289.73	loss actor:3.56464	loss critic:12.50785
+INFO:root:Epoch: 502 	 reward:-307.43	loss actor:4.51640	loss critic:19.46965
+INFO:root:Epoch: 503 	 reward:-690.39	loss actor:5.06549	loss critic:20.91105
+INFO:root:Epoch: 504 	 reward:-631.11	loss actor:4.25088	loss critic:22.96658
+INFO:root:Epoch: 505 	 reward:-257.87	loss actor:4.68296	loss critic:199.00920
+INFO:root:Epoch: 506 	 reward:-450.70	loss actor:1.70847	loss critic:4.56347
+INFO:root:Epoch: 507 	 reward:-323.30	loss actor:-0.11139	loss critic:7.19022
+INFO:root:Epoch: 508 	 reward:-414.64	loss actor:-1.23894	loss critic:9.30750
+INFO:root:Epoch: 509 	 reward:-394.79	loss actor:-1.72268	loss critic:299.06976
+INFO:root:Epoch: 510 	 reward:-311.72	loss actor:0.38995	loss critic:4.73561	eval reward: -351.58	mean reward: -525.30	best reward: 3.12
+INFO:root:Epoch: 511 	 reward:-278.47	loss actor:1.37942	loss critic:5.78819
+INFO:root:Epoch: 512 	 reward:-192.14	loss actor:1.23776	loss critic:14.24781
+INFO:root:Epoch: 513 	 reward:-140.74	loss actor:5.35442	loss critic:176.74384
+INFO:root:Epoch: 514 	 reward:-619.70	loss actor:2.41149	loss critic:18.52742
+INFO:root:Epoch: 515 	 reward:-270.57	loss actor:1.61470	loss critic:7.60208
+INFO:root:Epoch: 516 	 reward:-388.94	loss actor:2.50560	loss critic:17.88482
+INFO:root:Epoch: 517 	 reward:-483.66	loss actor:0.61545	loss critic:38.43880
+INFO:root:Epoch: 518 	 reward:-326.29	loss actor:3.40278	loss critic:15.81952
+INFO:root:Epoch: 519 	 reward:-470.07	loss actor:0.03261	loss critic:6.14913
+INFO:root:Epoch: 520 	 reward:-368.09	loss actor:-0.18392	loss critic:8.61958	eval reward: -186.29	mean reward: -518.78	best reward: 3.12
+INFO:root:Epoch: 521 	 reward:-243.71	loss actor:-0.45005	loss critic:6.16520
+INFO:root:Epoch: 522 	 reward:-404.15	loss actor:-0.40090	loss critic:147.77333
+INFO:root:Epoch: 523 	 reward:-504.00	loss actor:1.10945	loss critic:8.99094
+INFO:root:Epoch: 524 	 reward:-211.77	loss actor:0.76040	loss critic:9.04455
+INFO:root:Epoch: 525 	 reward:-237.66	loss actor:1.39846	loss critic:13.80574
+INFO:root:Epoch: 526 	 reward:-246.30	loss actor:3.57350	loss critic:278.54453
+INFO:root:Epoch: 527 	 reward:-306.67	loss actor:2.77970	loss critic:11.78011
+INFO:root:Epoch: 528 	 reward:-285.02	loss actor:3.86367	loss critic:125.20244
+INFO:root:Epoch: 529 	 reward:-339.09	loss actor:2.68693	loss critic:12.32828
+INFO:root:Epoch: 530 	 reward:-399.20	loss actor:3.19058	loss critic:12.78237	eval reward: -202.75	mean reward: -512.82	best reward: 3.12
+INFO:root:Epoch: 531 	 reward:-494.80	loss actor:2.12739	loss critic:8.02097
+INFO:root:Epoch: 532 	 reward:-360.85	loss actor:-1.31979	loss critic:8.74247
+INFO:root:Epoch: 533 	 reward:-72.35	loss actor:-3.05793	loss critic:145.34387
+INFO:root:Epoch: 534 	 reward:-318.30	loss actor:-3.91582	loss critic:16.49189
+INFO:root:Epoch: 535 	 reward:-337.50	loss actor:0.80236	loss critic:6.40445
+INFO:root:Epoch: 536 	 reward:-354.04	loss actor:0.46267	loss critic:207.08972
+INFO:root:Epoch: 537 	 reward:-202.00	loss actor:1.07568	loss critic:6.06185
+INFO:root:Epoch: 538 	 reward:-266.57	loss actor:4.57651	loss critic:144.80893
+INFO:root:Epoch: 539 	 reward:-692.61	loss actor:3.31737	loss critic:16.06635
+INFO:root:Epoch: 540 	 reward:-439.80	loss actor:4.90685	loss critic:218.37347	eval reward: -356.22	mean reward: -509.92	best reward: 3.12
+INFO:root:Epoch: 541 	 reward:-351.63	loss actor:2.94943	loss critic:15.55816
+INFO:root:Epoch: 542 	 reward:-414.85	loss actor:5.08228	loss critic:14.61620
+INFO:root:Epoch: 543 	 reward:-292.07	loss actor:5.25300	loss critic:151.30756
+INFO:root:Epoch: 544 	 reward:-422.04	loss actor:-0.85142	loss critic:9.97840
+INFO:root:Epoch: 545 	 reward:-321.22	loss actor:-0.61621	loss critic:8.10668
+INFO:root:Epoch: 546 	 reward:-361.62	loss actor:-1.87175	loss critic:143.88170
+INFO:root:Epoch: 547 	 reward:-425.18	loss actor:-0.64977	loss critic:265.32437
+INFO:root:Epoch: 548 	 reward:-268.21	loss actor:0.84544	loss critic:4.24287
+INFO:root:Epoch: 549 	 reward:-172.17	loss actor:0.66982	loss critic:127.17138
+INFO:root:Epoch: 550 	 reward:-326.02	loss actor:3.47641	loss critic:111.32175	eval reward: -108.45	mean reward: -502.62	best reward: 3.12
+INFO:root:Epoch: 551 	 reward:-256.99	loss actor:3.39397	loss critic:27.93434
+INFO:root:Epoch: 552 	 reward:-435.91	loss actor:3.26360	loss critic:23.53714
+INFO:root:Epoch: 553 	 reward:-143.95	loss actor:3.64063	loss critic:21.04402
+INFO:root:Epoch: 554 	 reward:-279.60	loss actor:3.72954	loss critic:15.82985
+INFO:root:Epoch: 555 	 reward:-403.05	loss actor:0.01258	loss critic:6.27664
+INFO:root:Epoch: 556 	 reward:-396.15	loss actor:-0.17349	loss critic:152.55862
+INFO:root:Epoch: 557 	 reward:-409.05	loss actor:0.33237	loss critic:152.01704
+INFO:root:Epoch: 558 	 reward:-330.28	loss actor:-2.17142	loss critic:32.28376
+INFO:root:Epoch: 559 	 reward:-367.92	loss actor:-0.92772	loss critic:10.67854
+INFO:root:Epoch: 560 	 reward:-329.90	loss actor:-0.29170	loss critic:8.97557	eval reward: -192.72	mean reward: -497.09	best reward: 3.12
+INFO:root:Epoch: 561 	 reward:-412.34	loss actor:1.33577	loss critic:124.73154
+INFO:root:Epoch: 562 	 reward:-345.55	loss actor:1.81590	loss critic:104.22166
+INFO:root:Epoch: 563 	 reward:-57.79	loss actor:4.74405	loss critic:20.23673
+INFO:root:Epoch: 564 	 reward:-352.75	loss actor:2.99739	loss critic:88.25242
+INFO:root:Epoch: 565 	 reward:-391.45	loss actor:5.59592	loss critic:53.23248
+INFO:root:Epoch: 566 	 reward:-362.60	loss actor:1.81961	loss critic:19.97016
+INFO:root:Epoch: 567 	 reward:-427.73	loss actor:1.37756	loss critic:15.35840
+INFO:root:Epoch: 568 	 reward:-212.61	loss actor:-1.78190	loss critic:17.96308
+INFO:root:Epoch: 569 	 reward:-375.72	loss actor:-2.67574	loss critic:16.78251
+INFO:root:Epoch: 570 	 reward:-109.00	loss actor:-1.72201	loss critic:15.53624	eval reward: -386.42	mean reward: -495.14	best reward: 3.12
+INFO:root:Epoch: 571 	 reward:-363.38	loss actor:-2.03828	loss critic:155.49263
+INFO:root:Epoch: 572 	 reward:-437.75	loss actor:-0.56259	loss critic:197.27521
+INFO:root:Epoch: 573 	 reward:-183.28	loss actor:1.07870	loss critic:5.12008
+INFO:root:Epoch: 574 	 reward:-441.17	loss actor:4.95262	loss critic:61.35609
+INFO:root:Epoch: 575 	 reward:-217.27	loss actor:5.53106	loss critic:35.63322
+INFO:root:Epoch: 576 	 reward:-171.41	loss actor:6.34256	loss critic:121.77370
+INFO:root:Epoch: 577 	 reward:-366.02	loss actor:6.07124	loss critic:141.10092
+INFO:root:Epoch: 578 	 reward:-203.41	loss actor:6.82520	loss critic:242.17113
+INFO:root:Epoch: 579 	 reward:-70.08	loss actor:0.91363	loss critic:7.53286
+INFO:root:Epoch: 580 	 reward:-452.26	loss actor:1.02028	loss critic:4.53765	eval reward: -103.86	mean reward: -488.40	best reward: 3.12
+INFO:root:Epoch: 581 	 reward:-35.03	loss actor:-0.20577	loss critic:4.67657
+INFO:root:Epoch: 582 	 reward:-161.71	loss actor:-3.51788	loss critic:197.20259
+INFO:root:Epoch: 583 	 reward:-329.24	loss actor:-3.31684	loss critic:11.93610
+INFO:root:Epoch: 584 	 reward:-329.69	loss actor:-1.82385	loss critic:142.50214
+INFO:root:Epoch: 585 	 reward:-8.35	loss actor:0.21579	loss critic:128.08318
+INFO:root:Epoch: 586 	 reward:-92.47	loss actor:1.75466	loss critic:7.56914
+INFO:root:Epoch: 587 	 reward:-295.48	loss actor:3.82058	loss critic:14.97459
+INFO:root:Epoch: 588 	 reward:-199.89	loss actor:4.11900	loss critic:22.80268
+INFO:root:Epoch: 589 	 reward:-319.59	loss actor:4.07085	loss critic:21.85673
+INFO:root:Epoch: 590 	 reward:-376.59	loss actor:2.89280	loss critic:269.71710	eval reward: -296.17	mean reward: -485.14	best reward: 3.12
+INFO:root:Epoch: 591 	 reward:-419.81	loss actor:-0.21570	loss critic:131.99942
+INFO:root:Epoch: 592 	 reward:-81.61	loss actor:0.30388	loss critic:5.21500
+INFO:root:Epoch: 593 	 reward:-68.14	loss actor:3.28409	loss critic:14.29539
+INFO:root:Epoch: 594 	 reward:-286.45	loss actor:1.72666	loss critic:108.07234
+INFO:root:Epoch: 595 	 reward:-193.69	loss actor:1.69297	loss critic:19.21331
+INFO:root:Epoch: 596 	 reward:-198.13	loss actor:1.08022	loss critic:11.58037
+INFO:root:Epoch: 597 	 reward:-154.39	loss actor:-1.28551	loss critic:14.28073
+INFO:root:Epoch: 598 	 reward:-70.13	loss actor:0.22182	loss critic:12.20274
+INFO:root:Epoch: 599 	 reward:-415.72	loss actor:-0.44071	loss critic:17.73854
+INFO:root:Epoch: 600 	 reward:-417.04	loss actor:-0.55506	loss critic:4.13315	eval reward: -395.27	mean reward: -483.64	best reward: 3.12
+INFO:root:Epoch: 601 	 reward:-106.00	loss actor:2.03401	loss critic:6.02838
+INFO:root:Epoch: 602 	 reward:-219.62	loss actor:1.27045	loss critic:107.25028
+INFO:root:Epoch: 603 	 reward:-94.93	loss actor:3.45357	loss critic:51.03221
+INFO:root:Epoch: 604 	 reward:-15.66	loss actor:2.94478	loss critic:139.49796
+INFO:root:Epoch: 605 	 reward:-415.80	loss actor:2.96917	loss critic:197.17673
+INFO:root:Epoch: 606 	 reward:-364.19	loss actor:5.65581	loss critic:126.56129
+INFO:root:Epoch: 607 	 reward:-271.62	loss actor:6.63464	loss critic:117.38768
+INFO:root:Epoch: 608 	 reward:-365.81	loss actor:7.35866	loss critic:36.39456
+INFO:root:Epoch: 609 	 reward:18.96	loss actor:5.85563	loss critic:16.29016
+INFO:root:Epoch: 610 	 reward:-417.96	loss actor:1.46113	loss critic:287.52380	eval reward: -142.13	mean reward: -478.04	best reward: 3.12
+INFO:root:Epoch: 611 	 reward:-378.15	loss actor:0.11338	loss critic:7.70409
+INFO:root:Epoch: 612 	 reward:-189.14	loss actor:-2.39045	loss critic:149.61801
+INFO:root:Epoch: 613 	 reward:-292.37	loss actor:-1.52104	loss critic:17.70033
+INFO:root:Epoch: 614 	 reward:-400.90	loss actor:-1.37304	loss critic:12.60818
+INFO:root:Epoch: 615 	 reward:-304.64	loss actor:0.46574	loss critic:231.66774
+INFO:root:Epoch: 616 	 reward:-93.23	loss actor:2.31341	loss critic:10.92168
+INFO:root:Epoch: 617 	 reward:-392.62	loss actor:4.19712	loss critic:19.03202
+INFO:root:Epoch: 618 	 reward:-186.05	loss actor:3.14888	loss critic:19.21833
+INFO:root:Epoch: 619 	 reward:-418.53	loss actor:3.77183	loss critic:105.66741
+INFO:root:Epoch: 620 	 reward:-197.22	loss actor:2.81599	loss critic:163.06868	eval reward: -148.24	mean reward: -472.72	best reward: 3.12
+INFO:root:Epoch: 621 	 reward:-384.29	loss actor:1.64178	loss critic:15.66435
+INFO:root:Epoch: 622 	 reward:-200.53	loss actor:1.86946	loss critic:12.26653
+INFO:root:Epoch: 623 	 reward:-351.91	loss actor:1.69476	loss critic:25.53653
+INFO:root:Epoch: 624 	 reward:-273.28	loss actor:1.36567	loss critic:10.23006
+INFO:root:Epoch: 625 	 reward:-65.16	loss actor:-1.16844	loss critic:137.52611
+INFO:root:Epoch: 626 	 reward:-68.21	loss actor:0.94864	loss critic:6.05012
+INFO:root:Epoch: 627 	 reward:-202.31	loss actor:2.41489	loss critic:141.21538
+INFO:root:Epoch: 628 	 reward:-244.08	loss actor:2.66362	loss critic:6.87624
+INFO:root:Epoch: 629 	 reward:-333.93	loss actor:6.70213	loss critic:175.97659
+INFO:root:Epoch: 630 	 reward:-400.07	loss actor:3.44730	loss critic:20.55623	eval reward: -426.22	mean reward: -471.99	best reward: 3.12
+INFO:root:Epoch: 631 	 reward:-422.59	loss actor:0.54072	loss critic:9.85234
+INFO:root:Epoch: 632 	 reward:-431.54	loss actor:0.40687	loss critic:4.08000
+INFO:root:Epoch: 633 	 reward:-55.30	loss actor:1.20493	loss critic:5.49211
+INFO:root:Epoch: 634 	 reward:-398.71	loss actor:-0.11540	loss critic:4.80045
+INFO:root:Epoch: 635 	 reward:-340.42	loss actor:-1.11977	loss critic:138.29523
+INFO:root:Epoch: 636 	 reward:-300.52	loss actor:-1.47547	loss critic:122.89706
+INFO:root:Epoch: 637 	 reward:-143.79	loss actor:2.62278	loss critic:386.88333
+INFO:root:Epoch: 638 	 reward:-75.06	loss actor:4.00753	loss critic:22.47144
+INFO:root:Epoch: 639 	 reward:-170.45	loss actor:6.80507	loss critic:162.69475
+INFO:root:Epoch: 640 	 reward:-429.13	loss actor:4.64483	loss critic:41.52795	eval reward: -450.19	mean reward: -471.65	best reward: 3.12
+INFO:root:Epoch: 641 	 reward:-361.50	loss actor:2.74615	loss critic:128.70274
+INFO:root:Epoch: 642 	 reward:-495.17	loss actor:1.26970	loss critic:11.77215
+INFO:root:Epoch: 643 	 reward:-189.96	loss actor:1.24541	loss critic:9.59903
+INFO:root:Epoch: 644 	 reward:-452.87	loss actor:0.72083	loss critic:17.52959
+INFO:root:Epoch: 645 	 reward:-140.99	loss actor:-0.81469	loss critic:90.90841
+INFO:root:Epoch: 646 	 reward:-213.03	loss actor:-1.44442	loss critic:14.13953
+INFO:root:Epoch: 647 	 reward:-357.68	loss actor:-1.91435	loss critic:11.59511
+INFO:root:Epoch: 648 	 reward:-405.83	loss actor:2.89898	loss critic:391.19104
+INFO:root:Epoch: 649 	 reward:-264.80	loss actor:-1.10418	loss critic:9.62931
+INFO:root:Epoch: 650 	 reward:-449.87	loss actor:-1.87064	loss critic:11.99201	eval reward: -608.42	mean reward: -473.75	best reward: 3.12
+INFO:root:Epoch: 651 	 reward:-224.68	loss actor:0.19774	loss critic:107.90863
+INFO:root:Epoch: 652 	 reward:-263.81	loss actor:0.34697	loss critic:62.78852
+INFO:root:Epoch: 653 	 reward:-411.31	loss actor:1.92288	loss critic:7.09357
+INFO:root:Epoch: 654 	 reward:-288.73	loss actor:2.79479	loss critic:140.54303
+INFO:root:Epoch: 655 	 reward:-438.54	loss actor:5.78912	loss critic:180.82785
+INFO:root:Epoch: 656 	 reward:-766.32	loss actor:5.84365	loss critic:16.73920
+INFO:root:Epoch: 657 	 reward:-429.17	loss actor:4.35005	loss critic:15.60571
+INFO:root:Epoch: 658 	 reward:-190.84	loss actor:3.57741	loss critic:5.95014
+INFO:root:Epoch: 659 	 reward:-487.98	loss actor:2.29717	loss critic:93.25124
+INFO:root:Epoch: 660 	 reward:-237.59	loss actor:-1.14224	loss critic:7.94472	eval reward: -566.95	mean reward: -475.16	best reward: 3.12
+INFO:root:Epoch: 661 	 reward:-214.21	loss actor:-2.02347	loss critic:33.74290
+INFO:root:Epoch: 662 	 reward:-266.57	loss actor:-0.62009	loss critic:277.61792
+INFO:root:Epoch: 663 	 reward:-398.97	loss actor:-1.16528	loss critic:6.88897
+INFO:root:Epoch: 664 	 reward:-257.74	loss actor:0.90632	loss critic:3.01289
+INFO:root:Epoch: 665 	 reward:-423.60	loss actor:4.37279	loss critic:26.15533
+INFO:root:Epoch: 666 	 reward:-250.13	loss actor:3.14112	loss critic:8.96467
+INFO:root:Epoch: 667 	 reward:-253.20	loss actor:6.33402	loss critic:261.64066
+INFO:root:Epoch: 668 	 reward:-376.46	loss actor:3.68761	loss critic:12.96171
+INFO:root:Epoch: 669 	 reward:-448.79	loss actor:4.32900	loss critic:99.49706
+INFO:root:Epoch: 670 	 reward:-188.95	loss actor:3.28742	loss critic:21.49678	eval reward: -149.37	mean reward: -470.30	best reward: 3.12
+INFO:root:Epoch: 671 	 reward:-220.54	loss actor:2.65716	loss critic:11.54954
+INFO:root:Epoch: 672 	 reward:-258.56	loss actor:2.26454	loss critic:137.29071
+INFO:root:Epoch: 673 	 reward:-423.14	loss actor:2.15778	loss critic:96.99770
+INFO:root:Epoch: 674 	 reward:-259.77	loss actor:1.68987	loss critic:49.41571
+INFO:root:Epoch: 675 	 reward:-323.47	loss actor:0.93830	loss critic:136.51820
+INFO:root:Epoch: 676 	 reward:-354.98	loss actor:2.95097	loss critic:17.61557
+INFO:root:Epoch: 677 	 reward:-315.92	loss actor:0.14336	loss critic:159.28333
+INFO:root:Epoch: 678 	 reward:-192.34	loss actor:0.99991	loss critic:3.12596
+INFO:root:Epoch: 679 	 reward:-388.28	loss actor:1.05673	loss critic:15.75018
