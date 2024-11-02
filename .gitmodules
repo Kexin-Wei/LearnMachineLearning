@@ -1,0 +1,3 @@
+[submodule "RL/reinforcement-learning-an-introduction"]
+	path = RL/reinforcement-learning-an-introduction
+	url = https://github.com/ShangtongZhang/reinforcement-learning-an-introduction.git
