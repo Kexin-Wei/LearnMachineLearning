@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/vac/anaconda3/envs/torch/bin/python",
+    "jupyter.jupyterServerType": "local",
+    // "python.jediEnabled": false,  <== Commented this line and vs code to restart the window.
+    "window.zoomLevel": 0,
+    "[python]": {
+        
+    },
+}
